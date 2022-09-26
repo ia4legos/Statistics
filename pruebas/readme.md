@@ -1,1 +1,1 @@
-Aquí se realizarán cosas de prueba
+Aquí se realizarán pruebas
