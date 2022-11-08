@@ -1,0 +1,1 @@
+['Las medias son distintas', 'No hay evidencias en contra de la Hipótesis nula', 'Contraste significativo', 'Las media son iguales', 'El resto de respuestas son falsas']
