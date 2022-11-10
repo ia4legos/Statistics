@@ -1,0 +1,1 @@
+['No hay evidencias en contra de la Hipótesis nula', 'Contraste significativo', 'El resto de respuestas son falsas', 'La sensibilidad y la especificidad son iguales', 'Las sensibilidad y la especificidad distintas']
