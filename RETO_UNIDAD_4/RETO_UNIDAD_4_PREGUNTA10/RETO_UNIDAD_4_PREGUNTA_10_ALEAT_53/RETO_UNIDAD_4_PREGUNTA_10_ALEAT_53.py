@@ -1,1 +1,0 @@
-['Contraste significativo', 'El resto de respuestas son falsas', 'Existe al menos una media que difiere del resto', 'Las media son iguales', 'No hay evidencias en contra de la Hipótesis nula']
