@@ -1,0 +1,1 @@
+['Las distribuciones son iguales', 'Las distribuciones son distintas', 'El resto de respuestas son falsas', 'Contraste significativo', 'No hay evidencias en contra de la Hipótesis nula']
