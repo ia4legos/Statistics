@@ -1,0 +1,1 @@
+['float8', 'int8', 'object', 'int64', 'float64']
