@@ -1,0 +1,1 @@
+['0.0', 'id_paciente\n8682272_822872    2.1\n8682272_822872    6.3\nName: eosinofilos, dtype: float64', '9.5', '3.3', '1.6']
