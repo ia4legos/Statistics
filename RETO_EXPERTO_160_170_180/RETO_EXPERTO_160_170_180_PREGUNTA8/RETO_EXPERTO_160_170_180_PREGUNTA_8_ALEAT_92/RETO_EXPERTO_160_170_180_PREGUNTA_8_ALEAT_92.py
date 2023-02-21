@@ -1,0 +1,1 @@
+['Apendicitis aguda complicada', '41.3', '4.32', 'No apendicitis aguda', '25.5']
