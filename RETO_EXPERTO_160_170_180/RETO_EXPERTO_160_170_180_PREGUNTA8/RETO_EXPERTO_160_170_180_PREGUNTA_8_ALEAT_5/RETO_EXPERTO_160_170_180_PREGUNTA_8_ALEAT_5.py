@@ -1,0 +1,1 @@
+['id_paciente\n02252442_2750025    27.1\n02252442_2750025    31.3\n02252442_2750025    19.2\nName: linfocitos, dtype: float64', 'id_paciente\n7220202_772267    24.2\n7220202_772267    36.0\nName: linfocitos, dtype: float64', '49.0', '8.63', '27.3']
