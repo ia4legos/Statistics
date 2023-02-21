@@ -1,1 +1,0 @@
-['No apendicitis aguda', 'No apendicitis aguda', 'id_paciente\n7220202_772267    Apendicitis aguda complicada\n7220202_772267            No apendicitis aguda\nName: target, dtype: object', '0.8', '1.3']

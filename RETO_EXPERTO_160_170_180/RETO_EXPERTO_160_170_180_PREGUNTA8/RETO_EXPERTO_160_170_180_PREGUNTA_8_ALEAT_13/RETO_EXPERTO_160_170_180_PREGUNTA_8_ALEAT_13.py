@@ -1,1 +1,0 @@
-['12.61', 'id_paciente\n00524062_2446270     7.3\n00524062_2446270    14.3\nName: linfocitos, dtype: float64', '90.7', 'id_paciente\n00054087_682850    18.0\n00054087_682850    40.6\n00054087_682850    25.0\nName: linfocitos, dtype: float64', '3.4']
