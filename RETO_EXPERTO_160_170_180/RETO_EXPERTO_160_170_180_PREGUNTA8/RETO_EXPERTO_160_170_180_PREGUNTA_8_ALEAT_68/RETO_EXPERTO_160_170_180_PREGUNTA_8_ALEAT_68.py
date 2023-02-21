@@ -1,0 +1,1 @@
+[0.7, '13.05', 79.0, 'Apendicitis aguda complicada', 10.3]
