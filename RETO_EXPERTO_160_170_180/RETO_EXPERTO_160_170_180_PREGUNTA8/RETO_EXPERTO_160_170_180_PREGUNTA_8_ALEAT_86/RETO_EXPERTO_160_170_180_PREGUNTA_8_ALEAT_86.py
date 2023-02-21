@@ -1,0 +1,1 @@
+['10.11', 1.5332950461, 5.07, 'Apendicitis aguda no complicada', 2.3]
