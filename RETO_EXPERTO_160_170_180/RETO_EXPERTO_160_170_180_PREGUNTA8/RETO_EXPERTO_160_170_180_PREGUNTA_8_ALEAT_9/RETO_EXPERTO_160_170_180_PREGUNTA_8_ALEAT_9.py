@@ -1,0 +1,1 @@
+['id_paciente\n00002520_766027       Apendicitis aguda complicada\n00002520_766027    Apendicitis aguda no complicada\n00002520_766027    Apendicitis aguda no complicada\nName: target, dtype: object', '0.0', 'No apendicitis aguda', '0.5', 'No apendicitis aguda']
