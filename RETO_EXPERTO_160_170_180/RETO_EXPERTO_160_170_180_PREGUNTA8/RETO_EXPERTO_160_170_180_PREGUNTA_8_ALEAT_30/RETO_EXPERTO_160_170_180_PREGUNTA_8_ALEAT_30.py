@@ -1,1 +1,0 @@
-[18.68, 133.0, 15.89, '13.76', 'Apendicitis aguda no complicada']

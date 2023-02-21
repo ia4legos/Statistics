@@ -1,1 +1,0 @@
-[0.5, '0.2', 'Apendicitis aguda no complicada', 7.54, 7.2]

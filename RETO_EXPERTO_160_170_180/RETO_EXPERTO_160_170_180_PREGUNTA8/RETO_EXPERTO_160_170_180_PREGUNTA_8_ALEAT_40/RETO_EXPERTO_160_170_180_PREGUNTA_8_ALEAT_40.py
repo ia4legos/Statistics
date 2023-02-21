@@ -1,1 +1,0 @@
-[10.58, 'No apendicitis aguda', '6.88', 22.2, 0.1]
