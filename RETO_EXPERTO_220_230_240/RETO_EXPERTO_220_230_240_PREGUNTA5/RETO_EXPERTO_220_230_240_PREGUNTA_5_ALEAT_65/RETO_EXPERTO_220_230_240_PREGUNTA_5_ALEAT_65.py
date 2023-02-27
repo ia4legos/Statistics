@@ -1,0 +1,1 @@
+['plt.boxplot(inl_por_target, vert=False);', 'plt.boxplot(neutrofilos_por_target, vert=False);', 'plt.boxplot(neutrofilos_por_target, notch=True);', 'plt.boxplot(inl_por_target, notch=True);']
