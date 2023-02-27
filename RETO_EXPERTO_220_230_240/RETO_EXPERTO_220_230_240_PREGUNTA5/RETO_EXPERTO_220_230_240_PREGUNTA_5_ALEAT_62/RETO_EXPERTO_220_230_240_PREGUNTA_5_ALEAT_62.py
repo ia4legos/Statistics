@@ -1,0 +1,1 @@
+['plt.boxplot(potasio_por_target, notch=True);', 'plt.boxplot(eosinofilos_por_target, notch=True);', 'plt.boxplot(potasio_por_target, vert=False);', 'plt.boxplot(eosinofilos_por_target, vert=False);']
