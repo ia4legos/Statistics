@@ -1,0 +1,1 @@
+['plt.boxplot(pcr_por_sexo, showbox=False, showcaps=False);', 'plt.boxplot(sodio_por_sexo, showbox=False, showcaps=False);', 'plt.boxplot(pcr_por_sexo, vert=False);', 'plt.boxplot(sodio_por_sexo, vert=False);']
