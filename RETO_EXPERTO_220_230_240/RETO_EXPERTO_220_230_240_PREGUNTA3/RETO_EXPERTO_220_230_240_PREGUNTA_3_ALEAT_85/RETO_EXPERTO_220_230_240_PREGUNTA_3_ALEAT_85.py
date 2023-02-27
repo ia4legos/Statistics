@@ -1,0 +1,1 @@
+['plt.boxplot(urea, showbox=False, showcaps=False);', 'plt.boxplot(urea, vert=False);', 'plt.boxplot(urea, notch=True);', 'plt.boxplot(urea);']
