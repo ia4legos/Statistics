@@ -1,0 +1,1 @@
+['plt.boxplot(glucosa, notch=True);', 'plt.boxplot(glucosa, showmeans=True, meanline=True);', 'plt.boxplot(glucosa, showbox=False, showcaps=False);', 'plt.boxplot(glucosa, vert=False);']
