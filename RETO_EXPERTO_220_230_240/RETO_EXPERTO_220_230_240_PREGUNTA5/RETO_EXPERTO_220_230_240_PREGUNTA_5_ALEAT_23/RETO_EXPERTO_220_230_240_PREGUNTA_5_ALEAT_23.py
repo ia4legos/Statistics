@@ -1,0 +1,1 @@
+['plt.boxplot(eosinofilos_por_target, vert=False);', 'plt.boxplot(inl_por_target);', 'plt.boxplot(eosinofilos_por_target);', 'plt.boxplot(inl_por_target, vert=False);']
