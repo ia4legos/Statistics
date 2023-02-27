@@ -1,0 +1,1 @@
+['plt.boxplot(sodio_por_target, showmeans=True, meanline=True);', 'plt.boxplot(edad_por_target, showmeans=True, meanline=True);', 'plt.boxplot(sodio_por_target, showbox=False, showcaps=False);', 'plt.boxplot(edad_por_target, showbox=False, showcaps=False);']
