@@ -1,0 +1,1 @@
+['plt.boxplot(eosinofilos, showbox=False, showcaps=False);', 'plt.boxplot(eosinofilos);', 'plt.boxplot(eosinofilos, notch=True);', 'plt.boxplot(eosinofilos, vert=False);']
