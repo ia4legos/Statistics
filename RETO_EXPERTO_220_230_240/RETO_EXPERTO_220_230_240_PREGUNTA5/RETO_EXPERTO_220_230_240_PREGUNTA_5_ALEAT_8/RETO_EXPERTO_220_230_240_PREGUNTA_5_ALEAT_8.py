@@ -1,0 +1,1 @@
+['plt.boxplot(eosinofilos_por_sexo);', 'plt.boxplot(inl_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(eosinofilos_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(inl_por_sexo);']
