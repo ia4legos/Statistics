@@ -1,0 +1,1 @@
+['plt.boxplot(pcr);', 'plt.boxplot(pcr, vert=False);', 'plt.boxplot(pcr, showmeans=True, meanline=True);', 'plt.boxplot(pcr, notch=True);']
