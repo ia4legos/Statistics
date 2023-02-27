@@ -1,0 +1,1 @@
+['plt.boxplot(linfocitos_por_sexo, vert=False);', 'plt.boxplot(sodio_por_sexo, notch=True);', 'plt.boxplot(linfocitos_por_sexo, notch=True);', 'plt.boxplot(sodio_por_sexo, vert=False);']
