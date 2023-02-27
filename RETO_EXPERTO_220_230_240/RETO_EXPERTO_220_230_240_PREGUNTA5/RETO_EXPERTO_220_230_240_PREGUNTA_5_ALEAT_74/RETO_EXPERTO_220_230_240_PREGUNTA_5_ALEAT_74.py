@@ -1,0 +1,1 @@
+['plt.boxplot(neutrofilos_por_target, showmeans=True, meanline=True);', 'plt.boxplot(basofilos_por_target, showmeans=True, meanline=True);', 'plt.boxplot(neutrofilos_por_target, vert=False);', 'plt.boxplot(basofilos_por_target, vert=False);']
