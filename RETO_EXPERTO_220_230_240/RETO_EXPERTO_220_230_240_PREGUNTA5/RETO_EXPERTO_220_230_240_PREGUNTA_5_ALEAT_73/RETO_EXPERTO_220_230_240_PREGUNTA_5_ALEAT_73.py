@@ -1,0 +1,1 @@
+['plt.boxplot(sodio_por_sexo, vert=False);', 'plt.boxplot(basofilos_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(sodio_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(basofilos_por_sexo, vert=False);']
