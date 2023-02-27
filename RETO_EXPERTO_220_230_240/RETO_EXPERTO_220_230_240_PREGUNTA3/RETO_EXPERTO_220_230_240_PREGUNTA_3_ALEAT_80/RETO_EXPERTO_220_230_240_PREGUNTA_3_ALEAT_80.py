@@ -1,0 +1,1 @@
+['plt.boxplot(potasio);', 'plt.boxplot(potasio, showbox=False, showcaps=False);', 'plt.boxplot(potasio, vert=False);', 'plt.boxplot(potasio, notch=True);']
