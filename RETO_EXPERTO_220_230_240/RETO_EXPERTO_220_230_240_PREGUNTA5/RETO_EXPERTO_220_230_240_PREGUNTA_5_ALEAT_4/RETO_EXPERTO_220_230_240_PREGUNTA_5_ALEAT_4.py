@@ -1,0 +1,1 @@
+['plt.boxplot(potasio_por_sexo);', 'plt.boxplot(neutrofilos_por_sexo, showbox=False, showcaps=False);', 'plt.boxplot(neutrofilos_por_sexo);', 'plt.boxplot(potasio_por_sexo, showbox=False, showcaps=False);']
