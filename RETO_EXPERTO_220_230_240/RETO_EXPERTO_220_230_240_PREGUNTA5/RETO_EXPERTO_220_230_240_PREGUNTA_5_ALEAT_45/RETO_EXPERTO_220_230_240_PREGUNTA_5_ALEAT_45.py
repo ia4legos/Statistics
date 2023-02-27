@@ -1,0 +1,1 @@
+['plt.boxplot(neutrofilos_por_sexo, notch=True);', 'plt.boxplot(edad_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(neutrofilos_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(edad_por_sexo, notch=True);']
