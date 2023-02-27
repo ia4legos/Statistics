@@ -1,0 +1,1 @@
+["plt.hist(df['edad'], edgecolor = 'black', bins = 26)", "plt.hist(df['edad'], edgecolor = 'blue', bins = 19)", "plt.hist(df['edad'], edgecolor = 'blue', bins = 26)", "plt.hist(df['urea'], edgecolor = 'blue', bins = 26)"]
