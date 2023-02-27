@@ -1,0 +1,1 @@
+['plt.boxplot(inl_por_sexo, notch=True);', 'plt.boxplot(inl_por_sexo, showbox=False, showcaps=False);', 'plt.boxplot(basofilos_por_sexo, showbox=False, showcaps=False);', 'plt.boxplot(basofilos_por_sexo, notch=True);']
