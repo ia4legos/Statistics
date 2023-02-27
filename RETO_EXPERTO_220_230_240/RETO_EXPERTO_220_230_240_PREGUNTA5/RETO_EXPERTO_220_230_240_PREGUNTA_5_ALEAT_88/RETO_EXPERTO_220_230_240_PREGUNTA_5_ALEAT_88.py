@@ -1,0 +1,1 @@
+['plt.boxplot(urea_por_sexo, vert=False);', 'plt.boxplot(edad_por_sexo, vert=False);', 'plt.boxplot(edad_por_sexo);', 'plt.boxplot(urea_por_sexo);']
