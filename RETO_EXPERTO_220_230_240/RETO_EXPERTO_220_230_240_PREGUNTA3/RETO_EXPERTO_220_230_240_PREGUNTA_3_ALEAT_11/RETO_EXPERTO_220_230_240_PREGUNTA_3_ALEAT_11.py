@@ -1,0 +1,1 @@
+['plt.boxplot(inl, showmeans=True, meanline=True);', 'plt.boxplot(inl);', 'plt.boxplot(inl, showbox=False, showcaps=False);', 'plt.boxplot(inl, vert=False);']
