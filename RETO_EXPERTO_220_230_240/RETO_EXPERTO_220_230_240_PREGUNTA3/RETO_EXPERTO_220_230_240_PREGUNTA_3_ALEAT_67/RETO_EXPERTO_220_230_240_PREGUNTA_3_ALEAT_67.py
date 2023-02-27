@@ -1,0 +1,1 @@
+['plt.boxplot(linfocitos);', 'plt.boxplot(linfocitos, vert=False);', 'plt.boxplot(linfocitos, notch=True);', 'plt.boxplot(linfocitos, showbox=False, showcaps=False);']
