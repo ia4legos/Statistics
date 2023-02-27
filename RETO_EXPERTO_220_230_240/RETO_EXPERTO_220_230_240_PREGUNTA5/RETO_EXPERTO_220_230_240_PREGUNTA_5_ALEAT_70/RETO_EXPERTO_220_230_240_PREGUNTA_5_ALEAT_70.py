@@ -1,0 +1,1 @@
+['plt.boxplot(pcr_por_sexo, notch=True);', 'plt.boxplot(potasio_por_sexo, notch=True);', 'plt.boxplot(potasio_por_sexo);', 'plt.boxplot(pcr_por_sexo);']
