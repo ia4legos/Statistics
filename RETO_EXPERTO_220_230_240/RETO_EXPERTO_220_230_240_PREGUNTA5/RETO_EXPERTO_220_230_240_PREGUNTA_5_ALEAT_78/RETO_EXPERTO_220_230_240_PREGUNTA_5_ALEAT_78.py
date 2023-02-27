@@ -1,0 +1,1 @@
+['plt.boxplot(urea_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(urea_por_sexo, vert=False);', 'plt.boxplot(pcr_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(pcr_por_sexo, vert=False);']
