@@ -1,0 +1,1 @@
+['plt.boxplot(urea_por_sexo, notch=True);', 'plt.boxplot(monocitos_por_sexo, vert=False);', 'plt.boxplot(urea_por_sexo, vert=False);', 'plt.boxplot(monocitos_por_sexo, notch=True);']
