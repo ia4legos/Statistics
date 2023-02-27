@@ -1,0 +1,1 @@
+['plt.boxplot(edad_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(edad_por_sexo);', 'plt.boxplot(linfocitos_por_sexo);', 'plt.boxplot(linfocitos_por_sexo, showmeans=True, meanline=True);']
