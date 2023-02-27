@@ -1,0 +1,1 @@
+['plt.boxplot(eosinofilos_por_sexo);', 'plt.boxplot(eosinofilos_por_sexo, vert=False);', 'plt.boxplot(edad_por_sexo, vert=False);', 'plt.boxplot(edad_por_sexo);']
