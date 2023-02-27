@@ -1,0 +1,1 @@
+['plt.boxplot(leucocitos_por_sexo);', 'plt.boxplot(edad_por_sexo);', 'plt.boxplot(leucocitos_por_sexo, vert=False);', 'plt.boxplot(edad_por_sexo, vert=False);']
