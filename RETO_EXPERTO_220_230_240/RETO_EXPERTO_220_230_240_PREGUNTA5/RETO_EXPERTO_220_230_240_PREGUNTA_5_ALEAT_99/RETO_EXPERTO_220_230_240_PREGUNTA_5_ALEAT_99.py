@@ -1,0 +1,1 @@
+['plt.boxplot(inl_por_sexo);', 'plt.boxplot(neutrofilos_por_sexo);', 'plt.boxplot(inl_por_sexo, vert=False);', 'plt.boxplot(neutrofilos_por_sexo, vert=False);']
