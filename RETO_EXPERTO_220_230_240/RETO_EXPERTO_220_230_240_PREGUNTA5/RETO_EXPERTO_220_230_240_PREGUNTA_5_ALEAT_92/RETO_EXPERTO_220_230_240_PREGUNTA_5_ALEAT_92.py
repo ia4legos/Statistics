@@ -1,0 +1,1 @@
+['plt.boxplot(glucosa_por_sexo, notch=True);', 'plt.boxplot(leucocitos_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(glucosa_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(leucocitos_por_sexo, notch=True);']
