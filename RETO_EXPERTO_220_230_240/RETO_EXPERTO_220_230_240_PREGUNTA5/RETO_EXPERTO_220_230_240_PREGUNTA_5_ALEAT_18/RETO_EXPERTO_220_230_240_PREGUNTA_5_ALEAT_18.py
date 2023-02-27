@@ -1,0 +1,1 @@
+['plt.boxplot(basofilos_por_sexo, notch=True);', 'plt.boxplot(pcr_por_sexo);', 'plt.boxplot(pcr_por_sexo, notch=True);', 'plt.boxplot(basofilos_por_sexo);']
