@@ -1,0 +1,1 @@
+['plt.boxplot(pcr_por_sexo, notch=True);', 'plt.boxplot(pcr_por_sexo, vert=False);', 'plt.boxplot(monocitos_por_sexo, vert=False);', 'plt.boxplot(monocitos_por_sexo, notch=True);']
