@@ -1,0 +1,1 @@
+['plt.boxplot(monocitos_por_target, showmeans=True, meanline=True);', 'plt.boxplot(leucocitos_por_target, showmeans=True, meanline=True);', 'plt.boxplot(monocitos_por_target, showbox=False, showcaps=False);', 'plt.boxplot(leucocitos_por_target, showbox=False, showcaps=False);']
