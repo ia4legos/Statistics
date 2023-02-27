@@ -1,0 +1,1 @@
+['plt.boxplot(monocitos_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(monocitos_por_sexo, showbox=False, showcaps=False);', 'plt.boxplot(potasio_por_sexo, showmeans=True, meanline=True);', 'plt.boxplot(potasio_por_sexo, showbox=False, showcaps=False);']
