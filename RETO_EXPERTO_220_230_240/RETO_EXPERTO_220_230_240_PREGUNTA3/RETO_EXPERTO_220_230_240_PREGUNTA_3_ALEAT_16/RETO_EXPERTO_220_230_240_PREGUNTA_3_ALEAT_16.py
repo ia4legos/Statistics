@@ -1,0 +1,1 @@
+['plt.boxplot(basofilos, showmeans=True, meanline=True);', 'plt.boxplot(basofilos, showbox=False, showcaps=False);', 'plt.boxplot(basofilos, vert=False);', 'plt.boxplot(basofilos);']
