@@ -1,0 +1,1 @@
+['plt.boxplot(sodio, vert=False);', 'plt.boxplot(sodio, showbox=False, showcaps=False);', 'plt.boxplot(sodio, showmeans=True, meanline=True);', 'plt.boxplot(sodio);']
