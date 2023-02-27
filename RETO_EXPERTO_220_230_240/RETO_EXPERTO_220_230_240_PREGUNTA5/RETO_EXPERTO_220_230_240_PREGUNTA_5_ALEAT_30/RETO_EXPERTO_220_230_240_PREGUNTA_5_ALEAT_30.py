@@ -1,0 +1,1 @@
+['plt.boxplot(potasio_por_target, showbox=False, showcaps=False);', 'plt.boxplot(potasio_por_target, showmeans=True, meanline=True);', 'plt.boxplot(sodio_por_target, showbox=False, showcaps=False);', 'plt.boxplot(sodio_por_target, showmeans=True, meanline=True);']
