@@ -1,0 +1,1 @@
+['plt.boxplot(glucosa_por_target, vert=False);', 'plt.boxplot(edad_por_target, showmeans=True, meanline=True);', 'plt.boxplot(edad_por_target, vert=False);', 'plt.boxplot(glucosa_por_target, showmeans=True, meanline=True);']
