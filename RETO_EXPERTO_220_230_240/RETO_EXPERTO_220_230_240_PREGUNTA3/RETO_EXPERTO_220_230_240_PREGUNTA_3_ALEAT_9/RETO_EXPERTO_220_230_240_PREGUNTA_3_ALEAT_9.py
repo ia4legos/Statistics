@@ -1,0 +1,1 @@
+['plt.boxplot(monocitos, vert=False);', 'plt.boxplot(monocitos, showmeans=True, meanline=True);', 'plt.boxplot(monocitos, notch=True);', 'plt.boxplot(monocitos);']
