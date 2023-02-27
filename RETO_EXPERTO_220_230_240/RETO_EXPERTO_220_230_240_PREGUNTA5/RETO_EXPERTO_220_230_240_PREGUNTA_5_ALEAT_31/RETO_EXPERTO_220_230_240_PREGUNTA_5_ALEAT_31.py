@@ -1,0 +1,1 @@
+['plt.boxplot(edad_por_target, notch=True);', 'plt.boxplot(basofilos_por_target, notch=True);', 'plt.boxplot(edad_por_target, showbox=False, showcaps=False);', 'plt.boxplot(basofilos_por_target, showbox=False, showcaps=False);']
