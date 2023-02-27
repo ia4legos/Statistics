@@ -1,0 +1,1 @@
+['plt.boxplot(edad, notch=True);', 'plt.boxplot(edad);', 'plt.boxplot(edad, showmeans=True, meanline=True);', 'plt.boxplot(edad, vert=False);']
