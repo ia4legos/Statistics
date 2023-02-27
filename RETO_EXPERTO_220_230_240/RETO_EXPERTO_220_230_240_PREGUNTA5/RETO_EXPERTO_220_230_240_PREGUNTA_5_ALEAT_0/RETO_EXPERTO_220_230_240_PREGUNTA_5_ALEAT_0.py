@@ -1,0 +1,1 @@
+['plt.boxplot(glucosa_por_target);', 'plt.boxplot(neutrofilos_por_target);', 'plt.boxplot(glucosa_por_target, showbox=False, showcaps=False);', 'plt.boxplot(neutrofilos_por_target, showbox=False, showcaps=False);']
