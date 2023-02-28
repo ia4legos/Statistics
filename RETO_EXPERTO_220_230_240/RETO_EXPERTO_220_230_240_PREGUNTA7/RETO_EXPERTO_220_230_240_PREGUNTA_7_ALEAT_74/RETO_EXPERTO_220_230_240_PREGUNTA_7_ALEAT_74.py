@@ -1,0 +1,1 @@
+["sns.relplot(data=df, x='pcr', y='glucosa', hue='target', size='target');", "sns.relplot(data=df, x='pcr', y='glucosa', hue='target', style='target');", "sns.relplot(data=df, x='pcr', y='target', hue='glucosa', style='glucosa');", "sns.relplot(data=df, x='target', y='glucosa', hue='pcr', style='pcr');"]
