@@ -1,0 +1,1 @@
+["sns.boxplot(data=df, x='sexo', y='pcr', hue='target', showmeans=True);", "sns.boxplot(data=df, x='sexo', y='eosinofilos', hue='target');", "sns.boxplot(data=df, x='sexo', y='eosinofilos', hue='target');", "sns.boxplot(data=df, x='sexo', y='pcr', hue='target', showmeans=True);"]
