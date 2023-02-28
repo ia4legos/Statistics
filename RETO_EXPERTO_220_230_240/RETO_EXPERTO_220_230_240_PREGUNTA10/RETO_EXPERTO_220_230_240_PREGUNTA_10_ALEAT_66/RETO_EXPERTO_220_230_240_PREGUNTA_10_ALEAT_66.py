@@ -1,1 +1,0 @@
-["sns.violinplot(data=df, x='target', y='monocitos', hue='sexo', split=True);", "sns.violinplot(data=df, x='target', y='monocitos', hue='sexo', split=True);", "sns.violinplot(data=df, x='target', y='inl', hue='sexo');", "sns.violinplot(data=df, x='target', y='inl', hue='sexo');"]
