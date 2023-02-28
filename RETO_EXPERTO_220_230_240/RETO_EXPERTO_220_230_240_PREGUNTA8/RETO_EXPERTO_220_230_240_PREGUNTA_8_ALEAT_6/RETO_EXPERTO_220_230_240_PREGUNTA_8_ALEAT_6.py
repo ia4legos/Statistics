@@ -1,0 +1,1 @@
+["sns.catplot(data=df, x='urea', y='sexo', hue='target', kind='swarm');", "sns.catplot(data=df, x='target', y='sexo', hue='urea', kind='swarm');", "sns.catplot(data=df, x='target', y='urea', hue='sexo', jitter=False);", "sns.catplot(data=df, x='target', y='sexo', hue='urea', jitter=False);"]
