@@ -1,0 +1,1 @@
+["sns.relplot(data=df, x='linfocitos', y='inl', hue='target', style='target');", "sns.relplot(data=df, x='target', y='inl', hue='linfocitos', style='linfocitos');", "sns.relplot(data=df, x='linfocitos', y='target', hue='inl', style='inl');", "sns.relplot(data=df, x='linfocitos', y='inl', hue='target', palette='pastel');"]
