@@ -1,0 +1,1 @@
+["sns.relplot(data=df, x='inl', y='pcr', hue='sexo', palette='pastel');", "sns.relplot(data=df, x='inl', y='pcr', hue='sexo');", "sns.relplot(data=df, x='inl', y='sexo', hue='pcr', palette='pastel');", "sns.relplot(data=df, x='sexo', y='pcr', hue='inl', palette='pastel');"]
