@@ -1,0 +1,1 @@
+["sns.relplot(data=df, x='urea', y='inl', hue='target', style='target');", "sns.relplot(data=df, x='urea', y='inl', hue='target');", "sns.relplot(data=df, x='target', y='inl', hue='urea', style='urea');", "sns.relplot(data=df, x='urea', y='target', hue='inl', style='inl');"]
