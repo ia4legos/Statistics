@@ -1,0 +1,1 @@
+["sns.violinplot(data=df, x='target', y='potasio', hue='sexo');", "sns.boxplot(data=df, x='target', y='pcr', hue='sexo');", "sns.boxplot(data=df, x='target', y='potasio', hue='sexo');", "sns.violinplot(data=df, x='target', y='pcr', hue='sexo');"]
