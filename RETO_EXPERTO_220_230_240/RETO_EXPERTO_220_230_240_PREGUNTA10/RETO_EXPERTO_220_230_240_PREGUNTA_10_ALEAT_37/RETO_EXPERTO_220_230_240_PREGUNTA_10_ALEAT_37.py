@@ -1,0 +1,1 @@
+["sns.violinplot(data=df, x='target', y='neutrofilos', hue='sexo', split=True);", "sns.boxplot(data=df, x='target', y='neutrofilos', hue='sexo', showmeans=True);", "sns.boxplot(data=df, x='target', y='linfocitos', hue='sexo', showmeans=True);", "sns.violinplot(data=df, x='target', y='linfocitos', hue='sexo', split=True);"]
