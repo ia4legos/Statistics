@@ -1,0 +1,1 @@
+["sns.relplot(data=df, x='sodio', y='neutrofilos', hue='target', palette='pastel');", "sns.relplot(data=df, x='sodio', y='neutrofilos', hue='target', style='target');", "sns.relplot(data=df, x='target', y='neutrofilos', hue='sodio', style='sodio');", "sns.relplot(data=df, x='sodio', y='target', hue='neutrofilos', style='neutrofilos');"]
