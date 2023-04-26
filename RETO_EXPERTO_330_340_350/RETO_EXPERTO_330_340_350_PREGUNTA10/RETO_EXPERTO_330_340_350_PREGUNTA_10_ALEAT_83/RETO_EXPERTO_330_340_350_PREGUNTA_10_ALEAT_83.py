@@ -1,0 +1,1 @@
+['Z=0.1846. Rechazamos H0', 'Z=0.0. No rechazamos H0', 'Z=0.0. Rechazamos H0', 'Z=0.2703. Rechazamos H0', 'Z=0.1846. No rechazamos H0']
