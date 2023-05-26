@@ -1,0 +1,1 @@
+['No rechazamos H0, la proporción poblacional no es igual a 0.64.', 'No rechazamos H0, la proporción poblacional es igual a 0.42.', 'Rechazamos H0, la proporción poblacional no es igual a 0.64.', 'No rechazamos H0, la proporción poblacional es igual a 0.64.', 'Rechazamos H0, la proporción poblacional es igual a 0.42.']
