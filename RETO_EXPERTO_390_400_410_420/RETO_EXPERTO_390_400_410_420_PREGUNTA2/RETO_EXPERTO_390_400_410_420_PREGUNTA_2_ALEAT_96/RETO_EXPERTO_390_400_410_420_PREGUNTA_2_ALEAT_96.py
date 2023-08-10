@@ -1,0 +1,1 @@
+["Los valores de la variable 'neutrofilos' siguen una distribución Normal", '0.1066', '0.8947', "Los valores de la variable 'neutrofilos' no siguen una distribución Normal", '0.1833']
