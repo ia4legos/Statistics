@@ -1,0 +1,1 @@
+['20.2524', "Los valores de la variable 'pcr' siguen una distribución Normal", '0.2159', "Los valores de la variable 'pcr' no siguen una distribución Normal", '0.1087']
