@@ -1,0 +1,1 @@
+['La media poblacional de monocitos es significativamente diferente de 12.93', '0.6778', 'La media poblacional de monocitos es significativamente igual a 12.93', '17.007', '0.0']
