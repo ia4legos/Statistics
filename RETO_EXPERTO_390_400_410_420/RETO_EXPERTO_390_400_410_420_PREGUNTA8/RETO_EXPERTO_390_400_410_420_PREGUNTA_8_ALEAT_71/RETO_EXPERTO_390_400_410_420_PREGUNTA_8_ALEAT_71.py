@@ -1,0 +1,1 @@
+["Las medias poblacionales de 'monocitos' de los grupos de la variable 'target' son significativamente iguales", '0.8256', '0.913', '0.4047', "Al menos, la media poblacional de 'monocitos' de uno de los grupos de la variable 'target' es significativamente diferente a la de otro grupo"]
