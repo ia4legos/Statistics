@@ -1,0 +1,1 @@
+['La media poblacional de eosinofilos no es significativamente menor que 1.9', '0.989', '25.8901', '2.2914', 'La media poblacional de eosinofilos es significativamente menor que 1.9']
