@@ -1,0 +1,1 @@
+['0.941155363400641', "La media poblacional de 'potasio' del grupo 'mujer' no es significativamente menor que la del grupo 'hombre'", '1002.0', '0.4855523116365341', "La media poblacional de 'potasio' del grupo 'mujer' es significativamente menor que la del grupo 'hombre'"]
