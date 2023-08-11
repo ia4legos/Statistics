@@ -1,0 +1,1 @@
+["Los valores de la variable 'urea' siguen una distribución Normal", '0.9026', "Los valores de la variable 'urea' no siguen una distribución Normal", '0.0662', '0.7633']
