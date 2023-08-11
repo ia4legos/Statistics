@@ -1,0 +1,1 @@
+['Suma de Cuadrados Dentro = 1.0501587301587232', 'Suma de Cuadrados Dentro = 81.0', 'Suma de Cuadrados Dentro = 2.1003174603174464', 'Suma de Cuadrados Dentro = 2.0', 'Suma de Cuadrados Dentro = 406.09527777777777']
