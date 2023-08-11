@@ -1,0 +1,1 @@
+['1.821', "La media poblacional de 'sodio' del grupo 'mujer' es significativamente mayor que la del grupo 'hombre'", '0.7568', '0.0365', "La media poblacional de 'sodio' del grupo 'mujer' no es significativamente mayor que la del grupo 'hombre'"]
