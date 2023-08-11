@@ -1,0 +1,1 @@
+['0.1413', "Los valores de la variable 'edad' no siguen una distribución Normal", "Los valores de la variable 'edad' siguen una distribución Normal", '0.2466', '22.7172']
