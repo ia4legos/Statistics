@@ -1,1 +1,0 @@
-['0.5343', '0.5384', "Las medias poblacionales de 'glucosa' de los grupos de la variable 'target' son significativamente iguales", '0.5868', "Al menos, la media poblacional de 'glucosa' de uno de los grupos de la variable 'target' es significativamente diferente a la de otro grupo"]
