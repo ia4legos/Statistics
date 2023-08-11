@@ -1,1 +1,0 @@
-['La media poblacional de urea es significativamente mayor que 26.97', '0.0892', '0.2766', 'La media poblacional de urea no es significativamente mayor que 26.97', '1.3458']
