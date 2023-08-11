@@ -1,0 +1,1 @@
+["Al menos, la media poblacional de 'basofilos' de uno de los grupos de la variable 'target' es significativamente diferente a la de otro grupo", '0.0417', "Las medias poblacionales de 'basofilos' de los grupos de la variable 'target' son significativamente iguales", '3.2801', '0.3959']
