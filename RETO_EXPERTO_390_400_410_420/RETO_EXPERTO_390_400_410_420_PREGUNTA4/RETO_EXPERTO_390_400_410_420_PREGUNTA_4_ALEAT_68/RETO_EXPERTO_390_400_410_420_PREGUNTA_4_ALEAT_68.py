@@ -1,0 +1,1 @@
+['0.2918', "La varianza poblacional de 'basofilos' del grupo 'mujer' es significativamente igual a la del grupo 'hombre'", '1.6421', '0.0976', "La varianza poblacional de 'basofilos' del grupo 'mujer' es significativamente diferente a la del grupo 'hombre'"]
