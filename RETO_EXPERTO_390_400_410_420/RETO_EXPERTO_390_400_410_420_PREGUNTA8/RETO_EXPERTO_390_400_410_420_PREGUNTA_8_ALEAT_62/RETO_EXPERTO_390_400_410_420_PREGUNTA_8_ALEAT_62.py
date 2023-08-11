@@ -1,0 +1,1 @@
+["Las medias poblacionales de 'neutrofilos' de los grupos de la variable 'target' son significativamente iguales", "Al menos, la media poblacional de 'neutrofilos' de uno de los grupos de la variable 'target' es significativamente diferente a la de otro grupo", '0.0339', '0.3175', '3.4889']
