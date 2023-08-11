@@ -1,0 +1,1 @@
+["Los valores de la variable 'basofilos' no siguen una distribución Normal", '0.0996', "Los valores de la variable 'basofilos' siguen una distribución Normal", '0.1492', '16.4566']
