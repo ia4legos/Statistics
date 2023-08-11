@@ -1,0 +1,1 @@
+["La media poblacional de 'basofilos' del grupo 'mujer' no es significativamente menor que la del grupo 'hombre'", '2.1477', '25.5995', '0.982', "La media poblacional de 'basofilos' del grupo 'mujer' es significativamente menor que la del grupo 'hombre'"]
