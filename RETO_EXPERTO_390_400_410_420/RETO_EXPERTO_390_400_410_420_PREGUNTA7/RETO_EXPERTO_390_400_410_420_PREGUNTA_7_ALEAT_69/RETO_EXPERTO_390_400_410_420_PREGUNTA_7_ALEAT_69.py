@@ -1,0 +1,1 @@
+['Cuadrados Medios Dentro = 39.71807158741933', 'Cuadrados Medios Dentro = 2.0', 'Cuadrados Medios Dentro = 68.0', 'Cuadrados Medios Dentro = 360.50751879699243', 'Cuadrados Medios Dentro = 5.3015811587793005']
