@@ -1,0 +1,1 @@
+["La media poblacional de 'leucocitos' del grupo 'mujer' es significativamente menor que la del grupo 'hombre'", '-0.1611', '0.4362', '16.8457', "La media poblacional de 'leucocitos' del grupo 'mujer' no es significativamente menor que la del grupo 'hombre'"]
