@@ -1,0 +1,1 @@
+["La varianza poblacional de 'linfocitos' del grupo 'hombre' es significativamente igual a la del grupo 'mujer'", '0.4607', "La varianza poblacional de 'linfocitos' del grupo 'hombre' es significativamente diferente a la del grupo 'mujer'", '0.0642', '0.7681']
