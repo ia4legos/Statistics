@@ -1,0 +1,1 @@
+['0.2832', "La media poblacional de 'linfocitos' del grupo 'mujer' no es significativamente mayor que la del grupo 'hombre'", '1.9902', '0.0257', "La media poblacional de 'linfocitos' del grupo 'mujer' es significativamente mayor que la del grupo 'hombre'"]
