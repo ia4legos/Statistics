@@ -1,0 +1,1 @@
+["La varianza poblacional de 'neutrofilos' del grupo 'hombre' es significativamente diferente a la del grupo 'mujer'", '0.2552', "La varianza poblacional de 'neutrofilos' del grupo 'hombre' es significativamente igual a la del grupo 'mujer'", '0.4299', '1.2948']
