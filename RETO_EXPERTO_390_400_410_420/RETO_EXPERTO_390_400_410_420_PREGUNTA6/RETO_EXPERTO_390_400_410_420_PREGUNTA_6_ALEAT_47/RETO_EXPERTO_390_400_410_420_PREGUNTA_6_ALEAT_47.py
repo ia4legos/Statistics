@@ -1,0 +1,1 @@
+['0.9723', "La media poblacional de 'pcr' del grupo 'mujer' no es significativamente menor que la del grupo 'hombre'", '1.9435', "La media poblacional de 'pcr' del grupo 'mujer' es significativamente menor que la del grupo 'hombre'", '20.5998']
