@@ -1,1 +1,0 @@
-['Cuadrados Medios Dentro = 2.0', 'Cuadrados Medios Dentro = 223.76074108239712', 'Cuadrados Medios Dentro = 111.0', 'Cuadrados Medios Dentro = 3563.4735944062286', 'Cuadrados Medios Dentro = 32.10336571537143']

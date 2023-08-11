@@ -1,1 +1,0 @@
-['Grados de Libertad Entre = 52.31669112137027', 'Grados de Libertad Entre = 2.0', 'Grados de Libertad Entre = 60.235723481164825', 'Grados de Libertad Entre = 120.47144696232965', 'Grados de Libertad Entre = 94.0']

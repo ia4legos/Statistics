@@ -1,1 +1,0 @@
-['Grados de Libertad Dentro = 91.0', 'Grados de Libertad Dentro = 41.91727807957999', 'Grados de Libertad Dentro = 5.615173574996432', 'Grados de Libertad Dentro = 2.0', 'Grados de Libertad Dentro = 20.958639039789993']
