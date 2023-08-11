@@ -1,0 +1,1 @@
+['Suma de Cuadrados Entre = 532.0505741901706', 'Suma de Cuadrados Entre = 106.0', 'Suma de Cuadrados Entre = 288.10100180253966', 'Suma de Cuadrados Entre = 1064.101148380341', 'Suma de Cuadrados Entre = 30538.706191069206']
