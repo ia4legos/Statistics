@@ -1,1 +1,0 @@
-['0.7857', "Los valores de la variable 'potasio' no siguen una distribución Normal", '0.0787', "Los valores de la variable 'potasio' siguen una distribución Normal", '26.9074']
