@@ -1,1 +1,0 @@
-['0.7545', '1.0', 'La media poblacional de leucocitos no es significativamente mayor que 18.85', '-16.5965', 'La media poblacional de leucocitos es significativamente mayor que 18.85']

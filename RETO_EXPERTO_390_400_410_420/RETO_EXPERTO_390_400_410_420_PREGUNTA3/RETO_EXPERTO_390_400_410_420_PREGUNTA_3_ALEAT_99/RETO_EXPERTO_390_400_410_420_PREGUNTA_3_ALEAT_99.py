@@ -1,1 +1,0 @@
-['La media poblacional de inl no es significativamente mayor que 14.96', '-14.5874', '0.6932', '1.0', 'La media poblacional de inl es significativamente mayor que 14.96']
