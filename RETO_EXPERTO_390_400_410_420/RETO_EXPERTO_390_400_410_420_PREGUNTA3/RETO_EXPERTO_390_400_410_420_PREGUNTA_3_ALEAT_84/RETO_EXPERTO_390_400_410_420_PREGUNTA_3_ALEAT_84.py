@@ -1,0 +1,1 @@
+['La media poblacional de sodio es significativamente mayor que 137.8', 'La media poblacional de sodio no es significativamente mayor que 137.8', '-1.093', '0.0431', '0.8628']
