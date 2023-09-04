@@ -1,0 +1,1 @@
+['4.629627047309813', '0.09878460327646914', '0.3074564048744982', "Al menos, la media poblacional de 'edad' de uno de los grupos de la variable 'target' es significativamente diferente a la de otro grupo", "Las medias poblacionales de 'edad' de los grupos de la variable 'target' son significativamente iguales"]
