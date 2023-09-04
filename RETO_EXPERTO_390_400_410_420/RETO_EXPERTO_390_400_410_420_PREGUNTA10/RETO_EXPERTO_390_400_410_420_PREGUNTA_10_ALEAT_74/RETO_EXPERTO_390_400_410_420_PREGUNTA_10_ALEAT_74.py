@@ -1,0 +1,1 @@
+['0.11595462527783175', '0.6217212458806323', '846.0', "La media poblacional de 'inl' del grupo 'mujer' es significativamente igual a la del grupo 'hombre'", "La media poblacional de 'inl' del grupo 'mujer' es significativamente diferente a la del grupo 'hombre'"]
