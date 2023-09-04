@@ -1,0 +1,1 @@
+['0.8974585493946856', '9.450112217216469e-05', "Las medias poblacionales de 'leucocitos' de los grupos de la variable 'target' son significativamente iguales", '18.53379769739472', "Al menos, la media poblacional de 'leucocitos' de uno de los grupos de la variable 'target' es significativamente diferente a la de otro grupo"]
