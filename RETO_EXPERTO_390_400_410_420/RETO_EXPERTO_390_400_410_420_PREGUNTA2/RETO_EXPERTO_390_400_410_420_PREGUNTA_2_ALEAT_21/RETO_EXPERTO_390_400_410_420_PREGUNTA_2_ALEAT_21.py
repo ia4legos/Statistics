@@ -1,0 +1,1 @@
+['0.319', '0.4215', "Los valores de la variable 'glucosa' siguen una distribución Normal", '0.0859', "Los valores de la variable 'glucosa' no siguen una distribución Normal"]
