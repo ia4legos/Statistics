@@ -1,0 +1,1 @@
+['4284.0', '3460.7626813681477', 'La media poblacional de edad no es significativamente menor que 9.29', '0.9569547791429094', 'La media poblacional de edad es significativamente menor que 9.29']
