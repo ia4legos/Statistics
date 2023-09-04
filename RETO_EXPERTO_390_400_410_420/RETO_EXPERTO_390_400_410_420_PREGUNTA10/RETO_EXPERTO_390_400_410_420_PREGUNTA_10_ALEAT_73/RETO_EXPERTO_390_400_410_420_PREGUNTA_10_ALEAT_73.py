@@ -1,1 +1,0 @@
-['La media poblacional de monocitos no es significativamente menor que 7.34', '2918.0', 'La media poblacional de monocitos es significativamente menor que 7.34', '1966.0236283034892', '0.877056581985628']

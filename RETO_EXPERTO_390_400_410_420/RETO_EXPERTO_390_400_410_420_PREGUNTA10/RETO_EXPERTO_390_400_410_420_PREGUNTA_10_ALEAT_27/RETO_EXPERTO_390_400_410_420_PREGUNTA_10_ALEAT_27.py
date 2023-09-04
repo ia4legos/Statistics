@@ -1,1 +1,0 @@
-['0.9995044840824868', '0.37293533516266136', '2120.0', "La media poblacional de 'neutrofilos' del grupo 'mujer' no es significativamente menor que la del grupo 'hombre'", "La media poblacional de 'neutrofilos' del grupo 'mujer' es significativamente menor que la del grupo 'hombre'"]

@@ -1,1 +1,0 @@
-["Al menos, la media poblacional de 'eosinofilos' de uno de los grupos de la variable 'target' es significativamente diferente a la de otro grupo", '0.07366189791595057', '0.6749871546171659', "Las medias poblacionales de 'eosinofilos' de los grupos de la variable 'target' son significativamente iguales", '5.216539204800916']

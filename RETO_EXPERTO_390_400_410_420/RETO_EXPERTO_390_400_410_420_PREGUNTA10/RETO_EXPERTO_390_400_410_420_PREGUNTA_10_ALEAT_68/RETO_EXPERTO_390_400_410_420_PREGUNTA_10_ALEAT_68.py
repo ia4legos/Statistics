@@ -1,1 +1,0 @@
-['0.18888805903738137', '1.4588368127220853e-12', 'La media poblacional de monocitos es significativamente igual a 2.44', 'La media poblacional de monocitos es significativamente diferente de 2.44', '6.0']
