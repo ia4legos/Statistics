@@ -1,0 +1,1 @@
+["La media poblacional de 'monocitos' del grupo 'mujer' no es significativamente mayor que la del grupo 'hombre'", '520.0', "La media poblacional de 'monocitos' del grupo 'mujer' es significativamente mayor que la del grupo 'hombre'", '0.6408460477257927', '0.8213791851242833']
