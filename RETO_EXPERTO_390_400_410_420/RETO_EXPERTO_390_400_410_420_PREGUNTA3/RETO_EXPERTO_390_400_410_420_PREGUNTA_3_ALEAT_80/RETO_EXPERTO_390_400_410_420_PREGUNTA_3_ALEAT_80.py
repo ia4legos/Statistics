@@ -1,0 +1,1 @@
+['0.3996', '0.0', 'La media poblacional de pcr es significativamente menor que 6.15', 'La media poblacional de pcr no es significativamente menor que 6.15', '-10.7871']
