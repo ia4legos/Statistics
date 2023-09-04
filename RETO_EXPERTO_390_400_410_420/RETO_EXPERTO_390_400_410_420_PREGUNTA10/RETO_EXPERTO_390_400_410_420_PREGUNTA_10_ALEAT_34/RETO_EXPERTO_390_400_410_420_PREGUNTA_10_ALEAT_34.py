@@ -1,0 +1,1 @@
+["La media poblacional de 'edad' del grupo 'mujer' no es significativamente mayor que la del grupo 'hombre'", '1366.0', '0.5991843884281538', '0.01478745345447954', "La media poblacional de 'edad' del grupo 'mujer' es significativamente mayor que la del grupo 'hombre'"]
