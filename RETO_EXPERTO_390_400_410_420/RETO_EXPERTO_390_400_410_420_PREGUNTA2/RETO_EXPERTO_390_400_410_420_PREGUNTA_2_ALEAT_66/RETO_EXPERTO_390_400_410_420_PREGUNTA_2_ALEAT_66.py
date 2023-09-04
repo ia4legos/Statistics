@@ -1,0 +1,1 @@
+["Los valores de la variable 'sodio' siguen una distribución Normal", '0.1253', '0.59', '0.1852', "Los valores de la variable 'sodio' no siguen una distribución Normal"]
