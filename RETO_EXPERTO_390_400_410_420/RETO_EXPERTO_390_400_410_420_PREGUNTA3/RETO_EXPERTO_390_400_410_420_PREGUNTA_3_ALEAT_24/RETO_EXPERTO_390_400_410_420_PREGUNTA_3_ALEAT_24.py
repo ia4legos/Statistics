@@ -1,0 +1,1 @@
+['La media poblacional de glucosa no es significativamente mayor que 91.11', 'La media poblacional de glucosa es significativamente mayor que 91.11', '1.5957', '27.8644', '0.0553']
