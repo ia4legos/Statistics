@@ -1,0 +1,1 @@
+['La media poblacional de glucosa es significativamente igual a 114.55', 'La media poblacional de glucosa es significativamente diferente de 114.55', '0.0', '7.2229', '34.5206']
