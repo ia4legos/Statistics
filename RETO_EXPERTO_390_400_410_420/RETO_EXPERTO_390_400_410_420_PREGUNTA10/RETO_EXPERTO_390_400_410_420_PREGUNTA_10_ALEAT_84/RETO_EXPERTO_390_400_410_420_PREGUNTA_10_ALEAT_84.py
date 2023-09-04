@@ -1,0 +1,1 @@
+['2.271240662552212e-14', 'La media poblacional de potasio es significativamente menor que 4.58', '476.8312490800105', '544.0', 'La media poblacional de potasio no es significativamente menor que 4.58']
