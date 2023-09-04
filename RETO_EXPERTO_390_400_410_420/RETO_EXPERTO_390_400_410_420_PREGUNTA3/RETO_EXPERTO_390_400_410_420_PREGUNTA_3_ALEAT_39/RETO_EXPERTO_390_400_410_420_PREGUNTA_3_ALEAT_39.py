@@ -1,0 +1,1 @@
+['La media poblacional de basofilos no es significativamente mayor que 0.31', '0.0', '0.1899', 'La media poblacional de basofilos es significativamente mayor que 0.31', '4.668']
