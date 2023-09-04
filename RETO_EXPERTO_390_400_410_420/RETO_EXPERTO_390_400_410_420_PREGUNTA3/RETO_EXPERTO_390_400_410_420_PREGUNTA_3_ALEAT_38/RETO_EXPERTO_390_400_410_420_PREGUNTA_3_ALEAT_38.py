@@ -1,0 +1,1 @@
+['La media poblacional de monocitos no es significativamente mayor que 4.15', 'La media poblacional de monocitos es significativamente mayor que 4.15', '0.0', '0.7205', '12.5864']
