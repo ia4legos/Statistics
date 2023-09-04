@@ -1,0 +1,1 @@
+["Los valores de la variable 'eosinofilos' siguen una distribución Normal", '0.514', '0.104', "Los valores de la variable 'eosinofilos' no siguen una distribución Normal", '0.158']
