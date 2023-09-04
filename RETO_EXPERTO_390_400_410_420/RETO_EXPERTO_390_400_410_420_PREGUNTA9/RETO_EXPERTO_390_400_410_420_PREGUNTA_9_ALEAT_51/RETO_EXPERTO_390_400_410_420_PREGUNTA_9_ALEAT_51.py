@@ -1,0 +1,1 @@
+['Test de Wilcoxon', 'Test de Kruskal-Wallis', 'Test de la t de Student', 'Test Normal', 'Test de Mann-Whitney']
