@@ -1,0 +1,1 @@
+['1.0', 'La media poblacional de linfocitos no es significativamente mayor que 27.13', '13.4963', '-6.9885', 'La media poblacional de linfocitos es significativamente mayor que 27.13']
