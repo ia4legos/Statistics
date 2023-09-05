@@ -1,0 +1,1 @@
+['neutrofilos = 12.0185 - 0.0328*edad', 'edad = 12.0185 + 0.0328*neutrofilos', 'edad = 12.0185 - 0.0328*inl', 'edad = 12.0185 - 0.0328*neutrofilos', 'edad = -0.0328 - 12.0185*neutrofilos']
