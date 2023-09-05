@@ -1,1 +1,0 @@
-['potasio = 4.1548 + 0.01*pcr', 'pcr = 4.1548 + 0.01*potasio', 'potasio = 4.1548 - 0.01*pcr', 'potasio = 4.1548 + 0.01*urea', 'potasio = 0.01 + 4.1548*pcr']
