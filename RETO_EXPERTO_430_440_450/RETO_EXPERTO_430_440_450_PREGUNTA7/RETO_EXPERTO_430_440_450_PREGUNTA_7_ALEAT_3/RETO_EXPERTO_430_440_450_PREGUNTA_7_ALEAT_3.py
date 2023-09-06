@@ -1,0 +1,1 @@
+['potasio = 11.509 - 0.0527*basofilos - 0.0006*neutrofilos - 0.0562*sodio', 'neutrofilos = 11.509 - 0.0006*potasio - 0.0562*neutrofilos - 0.0527*sodio', 'basofilos = 11.509 - 0.0562*potasio - 0.0006*neutrofilos - 0.0527*sodio', 'potasio = -11.509 + 0.0562*basofilos + 0.0006*neutrofilos + 0.0527*sodio', 'potasio = 11.509 - 0.0562*basofilos - 0.0006*neutrofilos - 0.0527*sodio']
