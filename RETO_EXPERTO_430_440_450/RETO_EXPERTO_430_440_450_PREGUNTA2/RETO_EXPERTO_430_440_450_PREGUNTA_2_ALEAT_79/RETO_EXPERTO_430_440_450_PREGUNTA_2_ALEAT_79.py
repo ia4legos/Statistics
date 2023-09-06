@@ -1,0 +1,1 @@
+['urea = 0.5725 - 0.003*basofilos', 'basofilos = 0.5725 + 0.003*urea', 'basofilos = -0.003 - 0.5725*urea', 'basofilos = 0.5725 - 0.003*pcr', 'basofilos = 0.5725 - 0.003*urea']
