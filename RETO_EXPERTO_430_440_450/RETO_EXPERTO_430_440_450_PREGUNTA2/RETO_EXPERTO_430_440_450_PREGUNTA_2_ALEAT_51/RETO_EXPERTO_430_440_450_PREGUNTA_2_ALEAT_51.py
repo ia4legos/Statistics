@@ -1,0 +1,1 @@
+['potasio = 4.1018 + 0.0099*leucocitos', 'potasio = 4.1018 - 0.0099*inl', 'inl = 4.1018 + 0.0099*potasio', 'potasio = 0.0099 + 4.1018*inl', 'potasio = 4.1018 + 0.0099*inl']
