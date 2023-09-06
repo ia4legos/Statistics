@@ -1,0 +1,1 @@
+['urea = 36.4707 - 0.3388*inl - 0.7906*edad + 0.221*leucocitos', 'urea = -36.4707 - 0.221*inl + 0.7906*edad + 0.3388*leucocitos', 'urea = 36.4707 + 0.221*inl - 0.7906*edad - 0.3388*leucocitos', 'edad = 36.4707 - 0.7906*urea + 0.221*edad - 0.3388*leucocitos', 'inl = 36.4707 + 0.221*urea - 0.7906*edad - 0.3388*leucocitos']
