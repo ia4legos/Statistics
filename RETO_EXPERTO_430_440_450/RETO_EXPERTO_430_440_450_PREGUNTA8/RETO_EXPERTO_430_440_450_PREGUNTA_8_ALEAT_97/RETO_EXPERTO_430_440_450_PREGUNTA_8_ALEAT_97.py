@@ -1,0 +1,1 @@
+["El parámetro de la variable 'pcr' es significativamente igual a 0", '0.2413', "El parámetro de la variable 'neutrofilos' es significativamente diferente de 0", '1.1822', "El parámetro de la variable 'neutrofilos' es significativamente igual a 0"]
