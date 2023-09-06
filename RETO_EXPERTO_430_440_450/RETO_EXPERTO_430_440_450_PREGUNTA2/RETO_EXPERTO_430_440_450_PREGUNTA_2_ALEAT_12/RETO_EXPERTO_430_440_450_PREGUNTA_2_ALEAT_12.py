@@ -1,0 +1,1 @@
+['linfocitos = 34.1184 + 0.5177*urea', 'linfocitos = 34.1184 - 0.5177*monocitos', 'linfocitos = -0.5177 - 34.1184*urea', 'linfocitos = 34.1184 - 0.5177*urea', 'urea = 34.1184 - 0.5177*linfocitos']
