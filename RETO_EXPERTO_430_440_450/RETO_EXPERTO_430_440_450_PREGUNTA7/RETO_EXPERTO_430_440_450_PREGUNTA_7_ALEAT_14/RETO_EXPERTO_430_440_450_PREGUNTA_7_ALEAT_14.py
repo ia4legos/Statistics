@@ -1,0 +1,1 @@
+['leucocitos = -13.0509 + 0.9832*eosinofilos - 0.8685*pcr', 'eosinofilos = 13.0509 - 0.9832*leucocitos + 0.8685*pcr', 'pcr = 13.0509 + 0.8685*leucocitos - 0.9832*pcr', 'leucocitos = 13.0509 + 0.8685*eosinofilos - 0.9832*pcr', 'leucocitos = 13.0509 - 0.9832*eosinofilos + 0.8685*pcr']
