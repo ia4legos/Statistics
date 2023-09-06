@@ -1,0 +1,1 @@
+['potasio = 4.315 - 0.0062*edad', 'linfocitos = 4.315 - 0.0062*potasio', 'potasio = 4.315 - 0.0062*linfocitos', 'potasio = 4.315 + 0.0062*linfocitos', 'potasio = -0.0062 - 4.315*linfocitos']
