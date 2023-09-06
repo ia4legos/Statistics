@@ -1,0 +1,1 @@
+['pcr = 0.9204 + 0.2248*leucocitos', 'leucocitos = 0.9204 + 0.2248*pcr', 'pcr = 0.2248 + 0.9204*leucocitos', 'pcr = 0.9204 + 0.2248*inl', 'pcr = 0.9204 - 0.2248*leucocitos']
