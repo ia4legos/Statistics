@@ -1,0 +1,1 @@
+['urea = 4.3734 - 5.6413*potasio', 'potasio = 4.3734 + 5.6413*urea', 'urea = 5.6413 + 4.3734*potasio', 'urea = 4.3734 + 5.6413*monocitos', 'urea = 4.3734 + 5.6413*potasio']
