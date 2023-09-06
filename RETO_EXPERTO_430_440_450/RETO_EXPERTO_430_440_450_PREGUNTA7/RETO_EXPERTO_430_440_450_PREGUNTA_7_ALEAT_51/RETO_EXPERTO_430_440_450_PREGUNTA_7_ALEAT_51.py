@@ -1,0 +1,1 @@
+['potasio = 3.5285 + 0.0038*pcr + 0.0195*urea + 0.0339*leucocitos', 'potasio = 3.5285 + 0.0339*pcr + 0.0195*urea + 0.0038*leucocitos', 'urea = 3.5285 + 0.0195*potasio + 0.0339*urea + 0.0038*leucocitos', 'pcr = 3.5285 + 0.0339*potasio + 0.0195*urea + 0.0038*leucocitos', 'potasio = -3.5285 - 0.0339*pcr - 0.0195*urea - 0.0038*leucocitos']
