@@ -1,0 +1,1 @@
+['inl = 18.4552 - 0.1299*edad - 0.22*monocitos - 0.3195*neutrofilos', 'inl = -18.4552 + 0.3195*edad + 0.22*monocitos + 0.1299*neutrofilos', 'inl = -18.4552 + 0.1299*edad + 0.22*monocitos + 0.3195*neutrofilos', 'edad = -18.4552 + 0.1299*inl + 0.22*monocitos + 0.3195*neutrofilos', 'monocitos = -18.4552 + 0.22*inl + 0.1299*monocitos + 0.3195*neutrofilos']
