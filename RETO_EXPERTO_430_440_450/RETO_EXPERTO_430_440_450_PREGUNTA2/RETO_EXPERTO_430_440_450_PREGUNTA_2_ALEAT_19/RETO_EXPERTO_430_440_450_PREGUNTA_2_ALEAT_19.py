@@ -1,0 +1,1 @@
+['inl = 3.2426 + 5.0933*potasio', 'inl = -5.0933 - 3.2426*potasio', 'inl = -5.0933 + 3.2426*eosinofilos', 'inl = -5.0933 + 3.2426*potasio', 'potasio = -5.0933 + 3.2426*inl']
