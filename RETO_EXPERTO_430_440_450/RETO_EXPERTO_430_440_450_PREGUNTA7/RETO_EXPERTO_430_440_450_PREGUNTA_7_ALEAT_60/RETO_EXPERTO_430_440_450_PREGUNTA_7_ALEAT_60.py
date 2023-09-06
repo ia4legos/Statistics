@@ -1,0 +1,1 @@
+['inl = -6.8454 + 7.8186*basofilos + 0.0527*pcr - 0.171*urea', 'pcr = 6.8454 - 0.0527*inl - 7.8186*pcr + 0.171*urea', 'basofilos = 6.8454 - 7.8186*inl - 0.0527*pcr + 0.171*urea', 'inl = 6.8454 + 0.171*basofilos - 0.0527*pcr - 7.8186*urea', 'inl = 6.8454 - 7.8186*basofilos - 0.0527*pcr + 0.171*urea']
