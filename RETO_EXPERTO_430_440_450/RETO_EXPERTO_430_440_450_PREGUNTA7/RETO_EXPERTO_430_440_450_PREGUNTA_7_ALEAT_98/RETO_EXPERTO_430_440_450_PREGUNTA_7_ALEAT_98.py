@@ -1,0 +1,1 @@
+['sodio = 138.1425 - 0.1126*pcr - 0.1559*inl + 0.0998*potasio', 'sodio = 138.1425 + 0.0998*pcr - 0.1559*inl - 0.1126*potasio', 'pcr = 138.1425 - 0.1126*sodio - 0.1559*inl + 0.0998*potasio', 'inl = 138.1425 - 0.1559*sodio - 0.1126*inl + 0.0998*potasio', 'sodio = -138.1425 + 0.1126*pcr + 0.1559*inl - 0.0998*potasio']
