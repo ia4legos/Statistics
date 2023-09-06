@@ -1,0 +1,1 @@
+['edad = 2.8966 + 0.0968*urea - 0.1089*sodio - 0.1085*eosinofilos', 'edad = -2.8966 + 0.1085*urea + 0.1089*sodio - 0.0968*eosinofilos', 'edad = -2.8966 - 0.0968*urea + 0.1089*sodio + 0.1085*eosinofilos', 'sodio = -2.8966 + 0.1089*edad - 0.0968*sodio + 0.1085*eosinofilos', 'urea = -2.8966 - 0.0968*edad + 0.1089*sodio + 0.1085*eosinofilos']
