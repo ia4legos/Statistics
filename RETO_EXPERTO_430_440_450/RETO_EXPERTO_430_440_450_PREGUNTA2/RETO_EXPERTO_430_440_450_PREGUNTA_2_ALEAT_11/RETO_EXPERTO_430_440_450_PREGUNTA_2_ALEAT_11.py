@@ -1,0 +1,1 @@
+['pcr = -0.0653 - 0.0477*neutrofilos', 'pcr = 0.0477 + 0.0653*neutrofilos', 'pcr = -0.0653 + 0.0477*neutrofilos', 'pcr = -0.0653 + 0.0477*potasio', 'neutrofilos = -0.0653 + 0.0477*pcr']
