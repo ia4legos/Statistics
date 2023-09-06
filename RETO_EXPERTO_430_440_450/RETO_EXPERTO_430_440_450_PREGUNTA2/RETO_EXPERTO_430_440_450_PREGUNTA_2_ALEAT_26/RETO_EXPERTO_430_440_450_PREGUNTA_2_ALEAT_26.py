@@ -1,0 +1,1 @@
+['monocitos = 5.3997 - 0.1802*edad', 'monocitos = 0.1802 + 5.3997*edad', 'edad = 5.3997 + 0.1802*monocitos', 'monocitos = 5.3997 + 0.1802*inl', 'monocitos = 5.3997 + 0.1802*edad']
