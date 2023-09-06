@@ -1,0 +1,1 @@
+['eosinofilos = 4.2856 - 0.3503*sodio', 'pcr = 4.2856 - 0.3503*eosinofilos', 'eosinofilos = -0.3503 - 4.2856*pcr', 'eosinofilos = 4.2856 - 0.3503*pcr', 'eosinofilos = 4.2856 + 0.3503*pcr']
