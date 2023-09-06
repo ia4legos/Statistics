@@ -1,0 +1,1 @@
+['potasio = 3.488 + 0.0242*urea - 0.1721*basofilos + 0.0355*pcr', 'potasio = 3.488 + 0.0355*urea - 0.1721*basofilos + 0.0242*pcr', 'basofilos = 3.488 - 0.1721*potasio + 0.0242*basofilos + 0.0355*pcr', 'urea = 3.488 + 0.0242*potasio - 0.1721*basofilos + 0.0355*pcr', 'potasio = -3.488 - 0.0242*urea + 0.1721*basofilos - 0.0355*pcr']
