@@ -1,0 +1,1 @@
+['basofilos = 14.0641 - 2.1828*leucocitos - 0.1017*basofilos', 'leucocitos = 14.0641 - 2.1828*edad - 0.1017*basofilos', 'leucocitos = 14.0641 - 0.1017*edad - 2.1828*basofilos', 'edad = 14.0641 - 0.1017*leucocitos - 2.1828*basofilos', 'leucocitos = -14.0641 + 0.1017*edad + 2.1828*basofilos']
