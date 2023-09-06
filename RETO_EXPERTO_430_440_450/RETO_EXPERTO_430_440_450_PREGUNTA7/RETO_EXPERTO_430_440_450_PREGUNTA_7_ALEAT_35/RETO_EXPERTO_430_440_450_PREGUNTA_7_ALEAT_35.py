@@ -1,0 +1,1 @@
+['pcr = 0.4289 - 0.0269*basofilos + 0.0*glucosa + 0.02*edad', 'basofilos = 0.4289 + 0.02*pcr + 0.0*glucosa - 0.0269*edad', 'glucosa = 0.4289 + 0.0*basofilos - 0.0269*glucosa + 0.02*edad', 'basofilos = 0.4289 - 0.0269*pcr + 0.0*glucosa + 0.02*edad', 'basofilos = -0.4289 + 0.0269*pcr - 0.0*glucosa - 0.02*edad']
