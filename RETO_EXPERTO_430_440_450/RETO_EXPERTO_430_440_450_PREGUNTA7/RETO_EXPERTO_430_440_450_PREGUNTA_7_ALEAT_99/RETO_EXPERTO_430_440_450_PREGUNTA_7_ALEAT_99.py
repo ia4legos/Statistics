@@ -1,0 +1,1 @@
+['eosinofilos = 29.15 + 2.3819*linfocitos - 1.3328*leucocitos', 'linfocitos = 29.15 - 1.3328*eosinofilos + 2.3819*leucocitos', 'leucocitos = 29.15 - 1.3328*linfocitos + 2.3819*leucocitos', 'linfocitos = 29.15 + 2.3819*eosinofilos - 1.3328*leucocitos', 'linfocitos = -29.15 - 2.3819*eosinofilos + 1.3328*leucocitos']
