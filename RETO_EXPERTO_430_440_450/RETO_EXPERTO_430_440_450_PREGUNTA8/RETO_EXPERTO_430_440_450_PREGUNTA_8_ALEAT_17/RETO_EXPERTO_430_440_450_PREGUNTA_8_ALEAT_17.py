@@ -1,0 +1,1 @@
+["El parámetro de la variable 'edad' es significativamente diferente de 0", "El parámetro de la variable 'edad' es significativamente igual a 0", '0.5783', '0.0', '0.5656']
