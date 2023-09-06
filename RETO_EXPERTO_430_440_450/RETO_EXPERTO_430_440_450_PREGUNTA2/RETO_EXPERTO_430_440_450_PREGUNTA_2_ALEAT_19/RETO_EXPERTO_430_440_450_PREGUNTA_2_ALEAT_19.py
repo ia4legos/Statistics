@@ -1,0 +1,1 @@
+['eosinofilos = -1.688 - 9.7708*potasio', 'eosinofilos = 9.7708 - 1.688*linfocitos', 'eosinofilos = 9.7708 - 1.688*potasio', 'eosinofilos = 9.7708 + 1.688*potasio', 'potasio = 9.7708 - 1.688*eosinofilos']
