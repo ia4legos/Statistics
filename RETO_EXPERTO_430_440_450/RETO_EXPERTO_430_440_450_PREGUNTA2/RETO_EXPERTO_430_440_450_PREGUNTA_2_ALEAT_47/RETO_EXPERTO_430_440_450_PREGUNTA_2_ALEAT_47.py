@@ -1,0 +1,1 @@
+['potasio = 176.8748 - 19.0281*glucosa', 'glucosa = 176.8748 - 19.0281*potasio', 'glucosa = 176.8748 + 19.0281*potasio', 'glucosa = -19.0281 - 176.8748*potasio', 'glucosa = 176.8748 - 19.0281*urea']
