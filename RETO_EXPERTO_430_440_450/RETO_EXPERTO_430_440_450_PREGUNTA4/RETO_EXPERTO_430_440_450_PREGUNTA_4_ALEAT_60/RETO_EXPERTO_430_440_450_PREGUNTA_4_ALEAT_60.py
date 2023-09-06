@@ -1,0 +1,1 @@
+['0.0', '4.6911', 'La pendiente de la recta es significativamente diferente de 0', '0.0', 'La pendiente de la recta es significativamente igual a 0']
