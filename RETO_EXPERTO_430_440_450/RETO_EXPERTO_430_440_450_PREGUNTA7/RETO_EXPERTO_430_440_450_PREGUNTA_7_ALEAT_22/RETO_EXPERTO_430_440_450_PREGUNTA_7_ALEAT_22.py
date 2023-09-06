@@ -1,0 +1,1 @@
+['glucosa = 108.4411 - 0.3303*linfocitos - 0.3185*inl', 'inl = 108.4411 - 0.3185*glucosa - 0.3303*inl', 'glucosa = -108.4411 + 0.3303*linfocitos + 0.3185*inl', 'linfocitos = 108.4411 - 0.3303*glucosa - 0.3185*inl', 'glucosa = 108.4411 - 0.3185*linfocitos - 0.3303*inl']
