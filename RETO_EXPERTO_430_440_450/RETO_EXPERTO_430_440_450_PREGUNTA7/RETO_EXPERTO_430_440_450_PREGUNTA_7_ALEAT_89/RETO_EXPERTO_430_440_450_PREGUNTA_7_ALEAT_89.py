@@ -1,0 +1,1 @@
+['monocitos = -32.7511 - 0.0223*glucosa + 0.308*sodio', 'sodio = -32.7511 + 0.308*monocitos - 0.0223*sodio', 'glucosa = -32.7511 - 0.0223*monocitos + 0.308*sodio', 'monocitos = -32.7511 + 0.308*glucosa - 0.0223*sodio', 'monocitos = 32.7511 + 0.0223*glucosa - 0.308*sodio']
