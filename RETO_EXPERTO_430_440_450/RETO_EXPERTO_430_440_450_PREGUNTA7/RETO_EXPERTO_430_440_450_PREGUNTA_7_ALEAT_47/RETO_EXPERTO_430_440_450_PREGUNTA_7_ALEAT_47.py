@@ -1,0 +1,1 @@
+['sodio = 135.5536 + 0.0098*monocitos + 0.2774*edad - 0.0986*inl', 'sodio = -135.5536 - 0.0098*monocitos - 0.2774*edad + 0.0986*inl', 'edad = 135.5536 + 0.2774*sodio + 0.0098*edad - 0.0986*inl', 'sodio = 135.5536 - 0.0986*monocitos + 0.2774*edad + 0.0098*inl', 'monocitos = 135.5536 + 0.0098*sodio + 0.2774*edad - 0.0986*inl']
