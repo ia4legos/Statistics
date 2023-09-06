@@ -1,0 +1,1 @@
+['neutrofilos = 54.2311 + 2.1712*sodio', 'neutrofilos = 54.2311 + 2.1712*inl', 'inl = 54.2311 + 2.1712*neutrofilos', 'neutrofilos = 2.1712 + 54.2311*inl', 'neutrofilos = 54.2311 - 2.1712*inl']
