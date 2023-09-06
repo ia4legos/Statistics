@@ -1,0 +1,1 @@
+['inl = 0.7781 + 1.8143*leucocitos', 'inl = -1.8143 + 0.7781*sodio', 'inl = -1.8143 - 0.7781*leucocitos', 'leucocitos = -1.8143 + 0.7781*inl', 'inl = -1.8143 + 0.7781*leucocitos']
