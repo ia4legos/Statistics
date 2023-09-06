@@ -1,0 +1,1 @@
+['eosinofilos = 1.7848 - 0.0567*edad', 'edad = 1.7848 + 0.0567*eosinofilos', 'eosinofilos = 1.7848 + 0.0567*edad', 'eosinofilos = 0.0567 + 1.7848*edad', 'eosinofilos = 1.7848 + 0.0567*glucosa']
