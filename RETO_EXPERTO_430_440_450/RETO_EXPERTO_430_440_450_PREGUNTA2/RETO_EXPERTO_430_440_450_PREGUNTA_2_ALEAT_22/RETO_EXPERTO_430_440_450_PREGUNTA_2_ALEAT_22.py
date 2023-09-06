@@ -1,0 +1,1 @@
+['pcr = 4.1426 + 0.0221*potasio', 'potasio = 4.1426 + 0.0221*pcr', 'potasio = 4.1426 - 0.0221*pcr', 'potasio = 4.1426 + 0.0221*linfocitos', 'potasio = 0.0221 + 4.1426*pcr']
