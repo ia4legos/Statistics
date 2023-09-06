@@ -1,0 +1,1 @@
+['neutrofilos = -0.0642 - 76.1157*urea', 'neutrofilos = 76.1157 - 0.0642*leucocitos', 'neutrofilos = 76.1157 - 0.0642*urea', 'neutrofilos = 76.1157 + 0.0642*urea', 'urea = 76.1157 - 0.0642*neutrofilos']
