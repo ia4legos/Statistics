@@ -1,0 +1,1 @@
+['9.4456', 'La intercepción de la recta es significativamente diferente de 0', '19.6495', 'La intercepción de la recta es significativamente igual a 0', '0.0']
