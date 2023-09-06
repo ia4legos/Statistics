@@ -1,0 +1,1 @@
+["El parámetro de la variable 'basofilos' es significativamente igual a 0", '1.2427', "El parámetro de la variable 'monocitos' es significativamente igual a 0", "El parámetro de la variable 'monocitos' es significativamente diferente de 0", '0.2191']
