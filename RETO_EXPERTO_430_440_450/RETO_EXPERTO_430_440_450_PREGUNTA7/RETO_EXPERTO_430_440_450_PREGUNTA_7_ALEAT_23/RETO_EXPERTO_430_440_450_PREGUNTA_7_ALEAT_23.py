@@ -1,0 +1,1 @@
+['leucocitos = 81.1923 - 0.0261*eosinofilos - 0.4684*sodio - 0.9531*glucosa', 'leucocitos = -81.1923 + 0.9531*eosinofilos + 0.4684*sodio + 0.0261*glucosa', 'sodio = 81.1923 - 0.4684*leucocitos - 0.9531*sodio - 0.0261*glucosa', 'eosinofilos = 81.1923 - 0.9531*leucocitos - 0.4684*sodio - 0.0261*glucosa', 'leucocitos = 81.1923 - 0.9531*eosinofilos - 0.4684*sodio - 0.0261*glucosa']
