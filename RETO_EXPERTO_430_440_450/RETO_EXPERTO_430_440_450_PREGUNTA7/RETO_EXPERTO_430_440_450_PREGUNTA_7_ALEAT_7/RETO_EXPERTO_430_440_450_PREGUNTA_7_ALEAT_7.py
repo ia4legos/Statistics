@@ -1,0 +1,1 @@
+['edad = 11.4008 - 0.0608*leucocitos + 0.1299*monocitos - 0.075*urea', 'monocitos = 11.4008 + 0.1299*edad - 0.0608*monocitos - 0.075*urea', 'edad = 11.4008 - 0.075*leucocitos + 0.1299*monocitos - 0.0608*urea', 'edad = -11.4008 + 0.0608*leucocitos - 0.1299*monocitos + 0.075*urea', 'leucocitos = 11.4008 - 0.0608*edad + 0.1299*monocitos - 0.075*urea']
