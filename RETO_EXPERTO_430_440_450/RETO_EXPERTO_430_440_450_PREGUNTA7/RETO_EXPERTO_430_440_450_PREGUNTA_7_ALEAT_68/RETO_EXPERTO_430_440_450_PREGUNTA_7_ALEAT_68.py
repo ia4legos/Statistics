@@ -1,0 +1,1 @@
+['urea = -34.1322 + 0.0693*linfocitos + 0.0269*basofilos + 0.049*glucosa', 'urea = 34.1322 - 0.049*linfocitos - 0.0269*basofilos - 0.0693*glucosa', 'linfocitos = 34.1322 - 0.0693*urea - 0.0269*basofilos - 0.049*glucosa', 'basofilos = 34.1322 - 0.0269*urea - 0.0693*basofilos - 0.049*glucosa', 'urea = 34.1322 - 0.0693*linfocitos - 0.0269*basofilos - 0.049*glucosa']
