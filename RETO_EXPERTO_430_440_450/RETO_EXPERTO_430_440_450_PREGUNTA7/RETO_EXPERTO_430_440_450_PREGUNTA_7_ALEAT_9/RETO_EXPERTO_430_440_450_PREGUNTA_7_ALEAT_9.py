@@ -1,0 +1,1 @@
+['glucosa = -146.788 + 1.4166*urea + 2.5876*pcr + 0.5888*eosinofilos', 'glucosa = 146.788 - 1.4166*urea - 2.5876*pcr - 0.5888*eosinofilos', 'glucosa = 146.788 - 0.5888*urea - 2.5876*pcr - 1.4166*eosinofilos', 'urea = 146.788 - 1.4166*glucosa - 2.5876*pcr - 0.5888*eosinofilos', 'pcr = 146.788 - 2.5876*glucosa - 1.4166*pcr - 0.5888*eosinofilos']
