@@ -1,0 +1,1 @@
+['edad = 8.7237 - 0.2817*eosinofilos', 'edad = 8.7237 + 0.2817*basofilos', 'edad = 0.2817 + 8.7237*eosinofilos', 'eosinofilos = 8.7237 + 0.2817*edad', 'edad = 8.7237 + 0.2817*eosinofilos']
