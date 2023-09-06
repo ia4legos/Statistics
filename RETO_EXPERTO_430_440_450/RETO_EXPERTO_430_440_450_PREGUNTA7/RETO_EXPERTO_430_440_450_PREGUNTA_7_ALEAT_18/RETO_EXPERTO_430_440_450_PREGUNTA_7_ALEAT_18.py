@@ -1,0 +1,1 @@
+['edad = -8.5906 - 0.2355*monocitos + 0.3111*pcr', 'pcr = 8.5906 - 0.3111*edad + 0.2355*pcr', 'monocitos = 8.5906 + 0.2355*edad - 0.3111*pcr', 'edad = 8.5906 + 0.2355*monocitos - 0.3111*pcr', 'edad = 8.5906 - 0.3111*monocitos + 0.2355*pcr']
