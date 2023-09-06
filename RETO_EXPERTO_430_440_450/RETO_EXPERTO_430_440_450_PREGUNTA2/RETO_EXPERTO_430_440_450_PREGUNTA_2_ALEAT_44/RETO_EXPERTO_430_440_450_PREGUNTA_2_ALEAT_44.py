@@ -1,0 +1,1 @@
+['glucosa = 113.9928 - 0.519*neutrofilos', 'glucosa = 113.9928 - 0.519*urea', 'glucosa = -0.519 - 113.9928*urea', 'urea = 113.9928 - 0.519*glucosa', 'glucosa = 113.9928 + 0.519*urea']
