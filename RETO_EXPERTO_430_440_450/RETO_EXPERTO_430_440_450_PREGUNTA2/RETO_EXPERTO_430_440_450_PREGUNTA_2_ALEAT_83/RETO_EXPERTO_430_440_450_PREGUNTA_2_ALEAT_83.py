@@ -1,0 +1,1 @@
+['sodio = 135.9597 + 0.0626*eosinofilos', 'sodio = 135.9597 - 0.0626*linfocitos', 'linfocitos = 135.9597 + 0.0626*sodio', 'sodio = 135.9597 + 0.0626*linfocitos', 'sodio = 0.0626 + 135.9597*linfocitos']
