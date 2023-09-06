@@ -1,0 +1,1 @@
+['sodio = 0.4912 + 0.1011*edad - 1.2081*potasio - 0.0388*monocitos', 'edad = -0.4912 - 0.1011*sodio + 1.2081*potasio + 0.0388*monocitos', 'potasio = 0.4912 - 1.2081*edad + 0.1011*potasio - 0.0388*monocitos', 'edad = 0.4912 - 0.0388*sodio - 1.2081*potasio + 0.1011*monocitos', 'edad = 0.4912 + 0.1011*sodio - 1.2081*potasio - 0.0388*monocitos']
