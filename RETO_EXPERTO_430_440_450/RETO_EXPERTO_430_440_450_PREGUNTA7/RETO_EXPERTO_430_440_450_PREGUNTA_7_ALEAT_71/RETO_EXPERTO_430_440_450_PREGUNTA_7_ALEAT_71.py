@@ -1,0 +1,1 @@
+['linfocitos = 69.0665 - 0.7526*neutrofilos + 1.0234*potasio + 0.0193*edad', 'neutrofilos = 69.0665 - 0.7526*linfocitos + 1.0234*potasio + 0.0193*edad', 'potasio = 69.0665 + 1.0234*linfocitos - 0.7526*potasio + 0.0193*edad', 'linfocitos = -69.0665 + 0.7526*neutrofilos - 1.0234*potasio - 0.0193*edad', 'linfocitos = 69.0665 + 0.0193*neutrofilos + 1.0234*potasio - 0.7526*edad']
