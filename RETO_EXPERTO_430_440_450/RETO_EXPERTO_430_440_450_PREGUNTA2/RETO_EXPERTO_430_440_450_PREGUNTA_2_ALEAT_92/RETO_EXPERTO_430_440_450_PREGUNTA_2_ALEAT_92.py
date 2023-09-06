@@ -1,0 +1,1 @@
+['inl = 11.319 - 7.1258*glucosa', 'basofilos = 11.319 - 7.1258*inl', 'inl = 11.319 + 7.1258*basofilos', 'inl = -7.1258 - 11.319*basofilos', 'inl = 11.319 - 7.1258*basofilos']
