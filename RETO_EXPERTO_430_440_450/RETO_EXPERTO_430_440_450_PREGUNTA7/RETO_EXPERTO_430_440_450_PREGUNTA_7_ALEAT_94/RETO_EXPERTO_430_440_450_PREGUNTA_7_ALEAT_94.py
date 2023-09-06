@@ -1,0 +1,1 @@
+['linfocitos = 24.8543 - 1.3026*inl - 0.2184*leucocitos + 1.3775*potasio', 'linfocitos = 24.8543 + 1.3775*inl - 0.2184*leucocitos - 1.3026*potasio', 'leucocitos = 24.8543 - 0.2184*linfocitos - 1.3026*leucocitos + 1.3775*potasio', 'inl = 24.8543 - 1.3026*linfocitos - 0.2184*leucocitos + 1.3775*potasio', 'linfocitos = -24.8543 + 1.3026*inl + 0.2184*leucocitos - 1.3775*potasio']
