@@ -1,0 +1,1 @@
+['edad = -148.6413 + 0.0776*linfocitos + 1.1256*sodio + 1.3377*monocitos', 'linfocitos = -148.6413 + 0.0776*edad + 1.1256*sodio + 1.3377*monocitos', 'sodio = -148.6413 + 1.1256*linfocitos + 0.0776*sodio + 1.3377*monocitos', 'linfocitos = -148.6413 + 1.3377*edad + 1.1256*sodio + 0.0776*monocitos', 'linfocitos = 148.6413 - 0.0776*edad - 1.1256*sodio - 1.3377*monocitos']
