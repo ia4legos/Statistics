@@ -1,0 +1,1 @@
+['0.3784', '0.0245', "El parámetro de la variable 'urea' es significativamente igual a 0", "El parámetro de la variable 'urea' es significativamente diferente de 0", '-2.3267']
