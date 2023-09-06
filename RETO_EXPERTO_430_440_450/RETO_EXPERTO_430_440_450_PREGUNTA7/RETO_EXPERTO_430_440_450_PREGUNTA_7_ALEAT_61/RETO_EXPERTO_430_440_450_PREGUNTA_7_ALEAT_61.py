@@ -1,0 +1,1 @@
+['inl = 3.1146 - 0.1494*eosinofilos + 0.0056*glucosa', 'glucosa = 3.1146 + 0.0056*eosinofilos - 0.1494*glucosa', 'eosinofilos = 3.1146 - 0.1494*inl + 0.0056*glucosa', 'eosinofilos = 3.1146 + 0.0056*inl - 0.1494*glucosa', 'eosinofilos = -3.1146 + 0.1494*inl - 0.0056*glucosa']
