@@ -1,0 +1,1 @@
+['linfocitos = 34.2219 + 0.9624*potasio + 9.1092*basofilos - 7.1803*edad', 'linfocitos = -34.2219 + 7.1803*potasio - 9.1092*basofilos - 0.9624*edad', 'linfocitos = 34.2219 - 7.1803*potasio + 9.1092*basofilos + 0.9624*edad', 'basofilos = 34.2219 + 9.1092*linfocitos - 7.1803*basofilos + 0.9624*edad', 'potasio = 34.2219 - 7.1803*linfocitos + 9.1092*basofilos + 0.9624*edad']
