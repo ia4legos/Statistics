@@ -1,0 +1,1 @@
+['leucocitos = 12.8504 + 0.089*pcr', 'leucocitos = 12.8504 - 0.089*pcr', 'pcr = 12.8504 + 0.089*leucocitos', 'leucocitos = 12.8504 + 0.089*edad', 'leucocitos = 0.089 + 12.8504*pcr']
