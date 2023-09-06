@@ -1,0 +1,1 @@
+['monocitos = 39.5136 + 1.0511*linfocitos - 0.2636*urea - 1.7355*leucocitos', 'linfocitos = -39.5136 - 1.0511*monocitos + 0.2636*urea + 1.7355*leucocitos', 'linfocitos = 39.5136 - 1.7355*monocitos - 0.2636*urea + 1.0511*leucocitos', 'urea = 39.5136 - 0.2636*linfocitos + 1.0511*urea - 1.7355*leucocitos', 'linfocitos = 39.5136 + 1.0511*monocitos - 0.2636*urea - 1.7355*leucocitos']
