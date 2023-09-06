@@ -1,0 +1,1 @@
+['inl = 2.6045 - 0.0812*urea - 0.0817*glucosa', 'inl = -2.6045 + 0.0817*urea + 0.0812*glucosa', 'inl = -2.6045 + 0.0812*urea + 0.0817*glucosa', 'glucosa = -2.6045 + 0.0817*inl + 0.0812*glucosa', 'urea = -2.6045 + 0.0812*inl + 0.0817*glucosa']
