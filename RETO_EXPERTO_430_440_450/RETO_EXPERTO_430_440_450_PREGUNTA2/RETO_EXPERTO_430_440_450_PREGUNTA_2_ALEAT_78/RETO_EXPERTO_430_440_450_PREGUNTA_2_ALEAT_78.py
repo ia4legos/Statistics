@@ -1,0 +1,1 @@
+['pcr = 4.4363 - 0.0105*glucosa', 'pcr = -0.0105 - 4.4363*glucosa', 'glucosa = 4.4363 - 0.0105*pcr', 'pcr = 4.4363 - 0.0105*eosinofilos', 'pcr = 4.4363 + 0.0105*glucosa']
