@@ -1,0 +1,1 @@
+['edad = -34.5344 - 1.0785*sodio + 0.3526*potasio', 'edad = -34.5344 + 0.3526*sodio - 1.0785*potasio', 'edad = 34.5344 - 0.3526*sodio + 1.0785*potasio', 'potasio = -34.5344 - 1.0785*edad + 0.3526*potasio', 'sodio = -34.5344 + 0.3526*edad - 1.0785*potasio']
