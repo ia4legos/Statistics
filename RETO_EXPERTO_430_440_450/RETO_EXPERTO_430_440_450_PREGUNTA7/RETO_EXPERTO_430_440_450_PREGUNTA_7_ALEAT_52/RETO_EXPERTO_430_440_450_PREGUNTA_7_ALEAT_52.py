@@ -1,0 +1,1 @@
+['pcr = 98.8942 - 2.1062*glucosa + 0.4728*inl', 'glucosa = -98.8942 + 2.1062*pcr - 0.4728*inl', 'glucosa = 98.8942 - 2.1062*pcr + 0.4728*inl', 'inl = 98.8942 + 0.4728*glucosa - 2.1062*inl', 'glucosa = 98.8942 + 0.4728*pcr - 2.1062*inl']
