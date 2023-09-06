@@ -1,0 +1,1 @@
+['neutrofilos = 91.5833 + 1.0346*linfocitos', 'neutrofilos = 91.5833 - 1.0346*inl', 'linfocitos = 91.5833 - 1.0346*neutrofilos', 'neutrofilos = 91.5833 - 1.0346*linfocitos', 'neutrofilos = -1.0346 - 91.5833*linfocitos']
