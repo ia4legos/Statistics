@@ -1,0 +1,1 @@
+['1.0373', "El parámetro de la variable 'sodio' es significativamente diferente de 0", '0.0003', "El parámetro de la variable 'sodio' es significativamente igual a 0", '0.3026']
