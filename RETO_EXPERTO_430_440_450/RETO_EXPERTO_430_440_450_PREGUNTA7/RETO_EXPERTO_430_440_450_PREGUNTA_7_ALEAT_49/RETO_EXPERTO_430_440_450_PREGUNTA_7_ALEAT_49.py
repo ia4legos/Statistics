@@ -1,0 +1,1 @@
+['urea = -41.4255 + 0.4771*pcr + 0.6713*basofilos + 1.2851*edad', 'pcr = 41.4255 - 0.4771*urea - 0.6713*basofilos - 1.2851*edad', 'urea = 41.4255 - 0.4771*pcr - 0.6713*basofilos - 1.2851*edad', 'urea = 41.4255 - 1.2851*pcr - 0.6713*basofilos - 0.4771*edad', 'basofilos = 41.4255 - 0.6713*urea - 0.4771*basofilos - 1.2851*edad']
