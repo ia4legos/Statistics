@@ -1,0 +1,1 @@
+['urea = 0.6053 - 0.0015*basofilos - 0.0335*urea + 0.0146*edad', 'basofilos = 0.6053 - 0.0335*inl - 0.0015*urea + 0.0146*edad', 'basofilos = 0.6053 + 0.0146*inl - 0.0015*urea - 0.0335*edad', 'inl = 0.6053 - 0.0335*basofilos - 0.0015*urea + 0.0146*edad', 'basofilos = -0.6053 + 0.0335*inl + 0.0015*urea - 0.0146*edad']
