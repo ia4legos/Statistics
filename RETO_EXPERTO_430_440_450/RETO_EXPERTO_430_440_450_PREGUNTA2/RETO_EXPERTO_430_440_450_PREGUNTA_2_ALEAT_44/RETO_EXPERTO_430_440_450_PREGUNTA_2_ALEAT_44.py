@@ -1,0 +1,1 @@
+['pcr = 3.96 - 0.0462*edad', 'pcr = -0.0462 - 3.96*linfocitos', 'pcr = 3.96 + 0.0462*linfocitos', 'linfocitos = 3.96 - 0.0462*pcr', 'pcr = 3.96 - 0.0462*linfocitos']
