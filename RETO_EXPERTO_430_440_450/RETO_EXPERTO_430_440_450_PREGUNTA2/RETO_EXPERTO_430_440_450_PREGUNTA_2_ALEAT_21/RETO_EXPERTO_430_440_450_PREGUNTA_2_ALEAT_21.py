@@ -1,1 +1,0 @@
-['monocitos = 9.4163 - 0.0237*pcr', 'monocitos = 9.4163 + 0.0237*glucosa', 'monocitos = 9.4163 - 0.0237*glucosa', 'glucosa = 9.4163 - 0.0237*monocitos', 'monocitos = -0.0237 - 9.4163*glucosa']

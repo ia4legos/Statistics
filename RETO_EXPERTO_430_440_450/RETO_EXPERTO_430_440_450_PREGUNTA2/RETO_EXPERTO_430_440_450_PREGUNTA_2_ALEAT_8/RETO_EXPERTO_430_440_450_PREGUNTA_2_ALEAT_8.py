@@ -1,1 +1,0 @@
-['sodio = -0.5756 - 140.1722*potasio', 'potasio = 140.1722 - 0.5756*sodio', 'sodio = 140.1722 + 0.5756*potasio', 'sodio = 140.1722 - 0.5756*linfocitos', 'sodio = 140.1722 - 0.5756*potasio']

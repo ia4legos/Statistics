@@ -1,1 +1,0 @@
-['potasio = 2.3375 + 0.925*inl', 'inl = 0.925 + 2.3375*potasio', 'inl = 2.3375 + 0.925*glucosa', 'inl = 2.3375 + 0.925*potasio', 'inl = 2.3375 - 0.925*potasio']

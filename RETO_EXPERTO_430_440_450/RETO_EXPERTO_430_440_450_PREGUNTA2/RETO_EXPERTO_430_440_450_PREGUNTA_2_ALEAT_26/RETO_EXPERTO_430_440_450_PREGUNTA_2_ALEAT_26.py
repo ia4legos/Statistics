@@ -1,1 +1,0 @@
-['glucosa = 8.274 + 90.9467*basofilos', 'basofilos = 90.9467 + 8.274*glucosa', 'glucosa = 90.9467 + 8.274*basofilos', 'glucosa = 90.9467 + 8.274*sodio', 'glucosa = 90.9467 - 8.274*basofilos']

@@ -1,1 +1,0 @@
-['sodio = 0.0313 + 134.3931*glucosa', 'glucosa = 134.3931 + 0.0313*sodio', 'sodio = 134.3931 + 0.0313*glucosa', 'sodio = 134.3931 - 0.0313*glucosa', 'sodio = 134.3931 + 0.0313*eosinofilos']

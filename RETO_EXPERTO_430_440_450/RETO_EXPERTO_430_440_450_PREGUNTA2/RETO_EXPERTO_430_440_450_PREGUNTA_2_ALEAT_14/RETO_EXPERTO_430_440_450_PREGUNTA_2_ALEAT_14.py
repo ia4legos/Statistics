@@ -1,1 +1,0 @@
-['eosinofilos = 4.6063 + 0.1588*leucocitos', 'eosinofilos = 4.6063 - 0.1588*neutrofilos', 'eosinofilos = 4.6063 - 0.1588*leucocitos', 'leucocitos = 4.6063 - 0.1588*eosinofilos', 'eosinofilos = -0.1588 - 4.6063*leucocitos']

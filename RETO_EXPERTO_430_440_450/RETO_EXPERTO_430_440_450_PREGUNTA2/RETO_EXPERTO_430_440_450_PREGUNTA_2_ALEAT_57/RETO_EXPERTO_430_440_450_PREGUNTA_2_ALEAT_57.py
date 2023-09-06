@@ -1,1 +1,0 @@
-['monocitos = 6.829 + 0.3088*eosinofilos', 'monocitos = 6.829 + 0.3088*pcr', 'monocitos = 0.3088 + 6.829*eosinofilos', 'monocitos = 6.829 - 0.3088*eosinofilos', 'eosinofilos = 6.829 + 0.3088*monocitos']

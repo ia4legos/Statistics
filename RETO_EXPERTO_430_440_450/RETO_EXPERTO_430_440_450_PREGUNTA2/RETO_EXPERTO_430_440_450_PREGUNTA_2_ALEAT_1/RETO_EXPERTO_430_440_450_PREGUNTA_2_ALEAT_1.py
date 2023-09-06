@@ -1,1 +1,0 @@
-['neutrofilos = 73.2973 + 5.6973*basofilos', 'neutrofilos = 73.2973 - 5.6973*basofilos', 'basofilos = 73.2973 - 5.6973*neutrofilos', 'neutrofilos = 73.2973 - 5.6973*potasio', 'neutrofilos = -5.6973 - 73.2973*basofilos']

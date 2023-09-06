@@ -1,1 +1,0 @@
-['pcr = 0.6318 - 0.0416*basofilos', 'basofilos = 0.6318 + 0.0416*pcr', 'basofilos = 0.6318 - 0.0416*pcr', 'basofilos = 0.6318 - 0.0416*eosinofilos', 'basofilos = -0.0416 - 0.6318*pcr']

@@ -1,1 +1,0 @@
-['glucosa = 1.1471 + 60.222*sodio', 'glucosa = -60.222 + 1.1471*linfocitos', 'glucosa = -60.222 - 1.1471*sodio', 'glucosa = -60.222 + 1.1471*sodio', 'sodio = -60.222 + 1.1471*glucosa']

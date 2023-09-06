@@ -1,1 +1,0 @@
-['inl = 11.84 - 1.3283*neutrofilos', 'inl = 11.84 - 1.3283*eosinofilos', 'inl = 11.84 + 1.3283*eosinofilos', 'eosinofilos = 11.84 - 1.3283*inl', 'inl = -1.3283 - 11.84*eosinofilos']

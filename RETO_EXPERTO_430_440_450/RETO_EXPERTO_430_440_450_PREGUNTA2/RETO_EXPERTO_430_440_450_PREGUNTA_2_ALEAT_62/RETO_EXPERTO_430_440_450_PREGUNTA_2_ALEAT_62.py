@@ -1,1 +1,0 @@
-['leucocitos = 0.0742 + 0.1835*neutrofilos', 'leucocitos = 0.1835 + 0.0742*neutrofilos', 'leucocitos = 0.0742 + 0.1835*edad', 'neutrofilos = 0.0742 + 0.1835*leucocitos', 'leucocitos = 0.0742 - 0.1835*neutrofilos']

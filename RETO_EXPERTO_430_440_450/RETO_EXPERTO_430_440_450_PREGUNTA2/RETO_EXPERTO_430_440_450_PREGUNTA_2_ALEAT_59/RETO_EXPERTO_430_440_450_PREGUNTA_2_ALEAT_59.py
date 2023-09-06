@@ -1,1 +1,0 @@
-['pcr = 4.5177 - 0.0443*linfocitos', 'linfocitos = 4.5177 - 0.0443*pcr', 'pcr = 4.5177 + 0.0443*linfocitos', 'pcr = -0.0443 - 4.5177*linfocitos', 'pcr = 4.5177 - 0.0443*urea']

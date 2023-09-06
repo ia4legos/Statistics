@@ -1,1 +1,0 @@
-['linfocitos = 33.0103 + 1.7813*inl', 'inl = 33.0103 - 1.7813*linfocitos', 'linfocitos = 33.0103 - 1.7813*neutrofilos', 'linfocitos = 33.0103 - 1.7813*inl', 'linfocitos = -1.7813 - 33.0103*inl']

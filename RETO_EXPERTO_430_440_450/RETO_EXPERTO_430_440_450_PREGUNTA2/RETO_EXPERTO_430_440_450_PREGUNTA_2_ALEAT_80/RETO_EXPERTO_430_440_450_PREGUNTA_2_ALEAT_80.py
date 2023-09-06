@@ -1,1 +1,0 @@
-['inl = 14.1313 - 10.4505*basofilos', 'inl = -10.4505 - 14.1313*basofilos', 'inl = 14.1313 - 10.4505*edad', 'inl = 14.1313 + 10.4505*basofilos', 'basofilos = 14.1313 - 10.4505*inl']

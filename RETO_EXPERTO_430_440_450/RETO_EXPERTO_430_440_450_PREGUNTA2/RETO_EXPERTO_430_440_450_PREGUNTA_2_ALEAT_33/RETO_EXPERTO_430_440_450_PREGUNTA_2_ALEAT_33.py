@@ -1,1 +1,0 @@
-['potasio = -0.0453 + 6.6108*urea', 'urea = -0.0453 + 6.6108*potasio', 'urea = 6.6108 + 0.0453*potasio', 'urea = -0.0453 + 6.6108*neutrofilos', 'urea = -0.0453 - 6.6108*potasio']

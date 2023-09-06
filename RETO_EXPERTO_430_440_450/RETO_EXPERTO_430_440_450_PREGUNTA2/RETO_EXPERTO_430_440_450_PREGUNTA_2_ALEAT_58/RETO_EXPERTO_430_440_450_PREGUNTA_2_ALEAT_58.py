@@ -1,1 +1,0 @@
-['potasio = 4.2035 + 0.0004*linfocitos', 'potasio = 4.2035 - 0.0004*pcr', 'linfocitos = 4.2035 - 0.0004*potasio', 'potasio = -0.0004 - 4.2035*linfocitos', 'potasio = 4.2035 - 0.0004*linfocitos']
