@@ -1,0 +1,1 @@
+['sodio = 104.3226 - 0.633*inl - 0.2119*sodio - 1.0807*eosinofilos', 'inl = 104.3226 - 1.0807*urea - 0.633*sodio - 0.2119*eosinofilos', 'urea = 104.3226 - 0.2119*inl - 0.633*sodio - 1.0807*eosinofilos', 'inl = -104.3226 + 0.2119*urea + 0.633*sodio + 1.0807*eosinofilos', 'inl = 104.3226 - 0.2119*urea - 0.633*sodio - 1.0807*eosinofilos']
