@@ -1,0 +1,1 @@
+['pcr = 1.079 - 0.0085*basofilos - 0.1706*pcr + 0.0122*linfocitos', 'potasio = 1.079 - 0.1706*basofilos - 0.0085*pcr + 0.0122*linfocitos', 'basofilos = 1.079 - 0.1706*potasio - 0.0085*pcr + 0.0122*linfocitos', 'basofilos = 1.079 + 0.0122*potasio - 0.0085*pcr - 0.1706*linfocitos', 'basofilos = -1.079 + 0.1706*potasio + 0.0085*pcr - 0.0122*linfocitos']
