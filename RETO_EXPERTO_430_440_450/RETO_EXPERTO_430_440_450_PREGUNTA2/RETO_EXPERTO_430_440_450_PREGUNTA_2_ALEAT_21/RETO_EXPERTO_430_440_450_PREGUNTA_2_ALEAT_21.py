@@ -1,0 +1,1 @@
+['basofilos = 0.9071 + 0.0281*leucocitos', 'basofilos = -0.0281 - 0.9071*leucocitos', 'leucocitos = 0.9071 - 0.0281*basofilos', 'basofilos = 0.9071 - 0.0281*leucocitos', 'basofilos = 0.9071 - 0.0281*inl']
