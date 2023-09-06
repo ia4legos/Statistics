@@ -1,0 +1,1 @@
+['edad = 5.6389 + 0.0393*glucosa', 'edad = 0.0393 + 5.6389*glucosa', 'glucosa = 5.6389 + 0.0393*edad', 'edad = 5.6389 + 0.0393*sodio', 'edad = 5.6389 - 0.0393*glucosa']
