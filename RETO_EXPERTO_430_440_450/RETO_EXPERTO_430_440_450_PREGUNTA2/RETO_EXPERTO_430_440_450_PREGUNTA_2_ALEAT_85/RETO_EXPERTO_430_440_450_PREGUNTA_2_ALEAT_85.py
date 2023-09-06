@@ -1,0 +1,1 @@
+['sodio = 137.7344 - 0.0677*potasio', 'sodio = 137.7344 + 0.0677*potasio', 'sodio = 137.7344 - 0.0677*pcr', 'sodio = -0.0677 - 137.7344*potasio', 'potasio = 137.7344 - 0.0677*sodio']
