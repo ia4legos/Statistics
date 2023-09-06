@@ -1,0 +1,1 @@
+['pcr = 3.9777 - 0.2322*eosinofilos', 'pcr = 3.9777 - 0.2322*edad', 'pcr = 3.9777 + 0.2322*eosinofilos', 'eosinofilos = 3.9777 - 0.2322*pcr', 'pcr = -0.2322 - 3.9777*eosinofilos']
