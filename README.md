@@ -9,21 +9,30 @@ Todos los cursos están dimensionados en créditos ECTS, donde un crédito ECTS 
 
 **1. Programación con Python (3 ECTS)**
 Conocer el lenguaje Python y módulos básicos para el procesado de información. Diseñar y programar aplicaciones con Python para resolver problemas básicos. 
+
+
 **2. Ciencia de datos y automatización (3 ECTS)**
 Resumir la información de bases de datos de forma numérica y gráfica. Automatizar procesos relacionados con la gestión de información.
+
+
 **3. Machine Learning (3 ECTS)**
 Resolver problemas de predicción y clasificación de poblaciones.
+
+
 **4. Deep Learning (3 ECTS)**
 Resolver problemas relacionados con el análisis de imágenes, las series temporales, el procesado del lenguaje natural y el análisis sentimental.
 
 #Equipos de trabajo 
 ##Universidad Miguel Hernández
+
 	•	Fernando Borrás (f.borras@umh.es)
 	•	Federico Botella (federico@umh.es)
 	•	Inés Hernández (ines.hernandezp@umh.es)
 	•	Mª Asunción Martínez Mayoral (asun.mayoral@umh.es)
 	•	Josep Moltó (j.molto@umh.es)
 	•	Javier Morales (j.morales@umh.es)
+
+
 ## Instituto Técnico Superior Comunitario
 	•	Ramon Aliro Ortiz (ramon.ortiz@itsc.edu.do)
 	•	Víctor Ortiz (victor.ortiz@itsc.edu.do)
@@ -34,3 +43,5 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 	•	Yoel Bello (yoel.bello@itsc.edu.do)
 	•	Kaking Choi (kaking.choi@itsc.edu.do)   
 	•	Karina Felix (karina.felix@itsc.edu.do)
+
+    
