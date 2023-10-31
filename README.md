@@ -24,7 +24,7 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 
 # Equipos de trabajo 
 ## Universidad Miguel Hernández
-![logoumh](https://comunicacion.umh.es/files/2017/12/LOGO-ART-PRINCIPAL-IMPRESION-FONDO-BLANCOexportado.jpg)
+![logoumh](https://comunicacion.umh.es/files/2017/12/LOGO-ART-PRINCIPAL-IMPRESION-FONDO-BLANCOexportado.jpg&sz=w100)
 
 	•	Fernando Borrás (f.borras@umh.es)
 	•	Federico Botella (federico@umh.es)
