@@ -24,7 +24,6 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 
 # Equipos de trabajo 
 ## Universidad Miguel Hernández
-![logoumh](https://comunicacion.umh.es/files/2017/12/LOGO-ART-PRINCIPAL-IMPRESION-FONDO-BLANCOexportado.jpg&sz=w100)
 
 	•	Fernando Borrás (f.borras@umh.es)
 	•	Federico Botella (federico@umh.es)
@@ -35,7 +34,6 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 
 
 ## Instituto Técnico Superior Comunitario
-![logoitsc](https://www.itsc.edu.do/wp-content/uploads/2023/02/logo-12-1-e1677264157702.png)
 
 	•	Ramon Aliro Ortiz (ramon.ortiz@itsc.edu.do)
 	•	Víctor Ortiz (victor.ortiz@itsc.edu.do)
