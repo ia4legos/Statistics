@@ -35,6 +35,7 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 
 ## Instituto Técnico Superior Comunitario
 
+	•	Nicanor Peguero (nicanor.peguero@itsc.edu.do)
 	•	Ramon Aliro Ortiz (ramon.ortiz@itsc.edu.do)
 	•	Víctor Ortiz (victor.ortiz@itsc.edu.do)
 	•	Luis Bessewell (luis.bessewell@itsc.edu.do)
