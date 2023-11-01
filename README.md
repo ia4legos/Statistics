@@ -23,6 +23,7 @@ Resolver problemas de predicción y clasificación de poblaciones.
 Resolver problemas relacionados con el análisis de imágenes, las series temporales, el procesado del lenguaje natural y el análisis sentimental.
 
 # Equipos de trabajo 
+
 ## Universidad Miguel Hernández
 
 	•	Fernando Borrás (f.borras@umh.es)
@@ -31,7 +32,6 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 	•	Mª Asunción Martínez Mayoral (asun.mayoral@umh.es)
 	•	Josep Moltó (j.molto@umh.es)
 	•	Javier Morales (j.morales@umh.es)
-
 
 ## Instituto Técnico Superior Comunitario
 
@@ -46,4 +46,11 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 	•	Kaking Choi (kaking.choi@itsc.edu.do)   
 	•	Karina Felix (karina.felix@itsc.edu.do)
 
+ 
+ ## Universidad Autónoma de Santo Domingo
+	
+ 	•	Omar Segura (osegura02@uasd.edu.do)
+  	•	Amparo Cespedes (acespedes09@uasd.edu.do)
+  
+ 
     
