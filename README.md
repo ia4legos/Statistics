@@ -51,6 +51,11 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 	
  	•	Omar Segura (osegura02@uasd.edu.do)
   	•	Amparo Cespedes (acespedes09@uasd.edu.do)
+
+
+## Universidad Nacional del Centro de la Provincia de Buenos Aires
+
+•	Alejandro Bricker (alejandro.bricker@econ.unicen.edu.ar)
   
  
     
