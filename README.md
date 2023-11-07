@@ -55,7 +55,11 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 
 ## Universidad Nacional del Centro de la Provincia de Buenos Aires
 
-•	Alejandro Bricker (alejandro.bricker@econ.unicen.edu.ar)
-  
+	•	Alejandro Bricker (alejandro.bricker@econ.unicen.edu.ar)
+
+ ## Universidad Nacional Toribio Rodriguez de Mendoza de Amazonas
+ 
+ 	•	Jorge Luis Maicelo Quintana (rectorado@untrm.edu.pe)
+ 
  
     
