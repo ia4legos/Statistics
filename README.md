@@ -50,7 +50,14 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
  ## Universidad Autónoma de Santo Domingo
 	
  	•	Omar Segura (osegura02@uasd.edu.do)
-  	•	Amparo Cespedes (acespedes09@uasd.edu.do)
+  	•	Fernando López T. (fdolopezprof@gmail.com)
+	•	Carlos J. Matos	(carlosmatos67@hotmail.com)
+	•	Amparo Céspedes H. (achcespedes@gmail.com)
+	•	Joan Del Villar Figuereo (joandelvillar@outlook.com)
+	•	Joaquin K. Encarnacion (ing_joaquin@hotmail.com)
+	•	Wilson Suarez Fernandez	(wsuarezf@gmail.com)
+	•	Angel M. Bouret (angelbouret@gmail.com)
+	•	Henry Bello Paniagua (hbello26@uasd.edu.do)
 
 
 ## Universidad Nacional del Centro de la Provincia de Buenos Aires
