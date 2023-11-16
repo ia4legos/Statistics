@@ -68,5 +68,13 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
  
  	•	Jorge Luis Maicelo Quintana (rectorado@untrm.edu.pe)
  
- 
+  ## Corporación Minuto de Dios - UNIMINUTO Bogotá
+  	•	Jefferson Enrique Arias Gomez(jarias@uniminuto.edu)
+  	•	Carlos Armando López  (clopez@uniminuto.edu)
+  	•	Alonso Guevara Pérez (alonso.guevara@uniminuto.edu) 
+  	•	Ricardo Alfonso Sanabria (ricardo.sanabria.a@uniminuto.edu)
+  	•	Carlos Felipe Gómez (cfgomez@uniminuto.edu )
+  	•	Alexander Ramírez Camargo (alexander.ramirez@uniminuto.edu)
+  	•	Jaider Ospina Navas (jaider.ospina@uniminuto.edu)
+
     
