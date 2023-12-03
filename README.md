@@ -78,7 +78,7 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
   	•	Alexander Ramírez Camargo (alexander.ramirez@uniminuto.edu)
   	•	Jaider Ospina Navas (jaider.ospina@uniminuto.edu)
 
-## Corporación Minuto de Dios - UNIMINUTO Bogotá
+## Universidad ISA
 
   	•	Pavel Corniel (pcorniel@isa.edu.do)
   	•	Rafael Vasquez (rvasquez@isa.edu.do)
