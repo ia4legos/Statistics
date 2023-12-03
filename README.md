@@ -47,7 +47,7 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 	•	Karina Felix (karina.felix@itsc.edu.do)
 
  
- ## Universidad Autónoma de Santo Domingo
+## Universidad Autónoma de Santo Domingo
 	
  	•	Omar Segura (osegura02@uasd.edu.do)
   	•	Fernando López T. (fdolopezprof@gmail.com)
@@ -64,11 +64,12 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 
 	•	Alejandro Bricker (alejandro.bricker@econ.unicen.edu.ar)
 
- ## Universidad Nacional Toribio Rodriguez de Mendoza de Amazonas
+## Universidad Nacional Toribio Rodriguez de Mendoza de Amazonas
  
  	•	Jorge Luis Maicelo Quintana (rectorado@untrm.edu.pe)
  
-  ## Corporación Minuto de Dios - UNIMINUTO Bogotá
+## Corporación Minuto de Dios - UNIMINUTO Bogotá
+
   	•	Jefferson Enrique Arias Gomez(jarias@uniminuto.edu)
   	•	Carlos Armando López  (clopez@uniminuto.edu)
   	•	Alonso Guevara Pérez (alonso.guevara@uniminuto.edu) 
@@ -77,4 +78,7 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
   	•	Alexander Ramírez Camargo (alexander.ramirez@uniminuto.edu)
   	•	Jaider Ospina Navas (jaider.ospina@uniminuto.edu)
 
-    
+## Corporación Minuto de Dios - UNIMINUTO Bogotá
+
+  	•	Pavel Corniel (pcorniel@isa.edu.do)
+  	•	Rafael Vasquez (rvasquez@isa.edu.do)
