@@ -108,3 +108,7 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
    	•	Ana Báez (abaez@isa.edu.do)
    	•	Nicia Núñez (nnunez@isa.edu.do)
    	•	Edgar Cáceres (ecaceres@isa.edu.do)
+   	•	Samantha Franco (sfranco@isa.edu.do)
+   	•	Yanilka Alcántara (yalcantara@isa.edu.do)
+   	•	Yulisa Alcántara (yualcantara@isa.edu.do)
+   	•	Bernarda Reynoso (breynoso@isa.edu.do)
