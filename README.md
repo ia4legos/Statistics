@@ -112,3 +112,6 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
    	•	Yanilka Alcántara (yalcantara@isa.edu.do)
    	•	Yulisa Alcántara (yualcantara@isa.edu.do)
    	•	Bernarda Reynoso (breynoso@isa.edu.do)
+       	•	José Blanco	(jblanco@isa.edu.do)
+   	•	Ibrahin Clavel	(iclavel@isa.edu.do)
+   	•	Máxima Méndez	(mmendez@isa.edu.do)
