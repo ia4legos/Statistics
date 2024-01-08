@@ -1,4 +1,4 @@
-,id_paciente,edad,sexo,inl,glucosa,urea,sodio,potasio,pcr,leucocitos,neutrofilos,linfocitos,monocitos,eosinofilos,basofilos,target
+row,id_paciente,edad,sexo,inl,glucosa,urea,sodio,potasio,pcr,leucocitos,neutrofilos,linfocitos,monocitos,eosinofilos,basofilos,target
 0,8888400_2278625,9,hombre,10.7584664102,105.0,29.3,136.0,4.3,8.94,17.82,88.0,7.9,5.6,0.2,0.3,No apendicitis aguda
 1,6858688_764440,12,mujer,4.8275864469,119.0,14.8,135.0,3.51,4.93,9.01,70.3,14.5,8.9,4.1,0.9,Apendicitis aguda complicada
 2,6768800_500855,12,mujer,7.3243990639,116.0,22.8,140.0,4.14,1.36,13.3,81.0,19.3,7.0,1.8,0.4,No apendicitis aguda
