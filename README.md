@@ -45,6 +45,7 @@ Resolver problemas relacionados con el análisis de imágenes, las series tempor
 	•	Yoel Bello (yoel.bello@itsc.edu.do)
 	•	Kaking Choi (kaking.choi@itsc.edu.do)   
 	•	Karina Felix (karina.felix@itsc.edu.do)
+	•	Ricardo Reynoso(ricardo.reynoso@itsc.edu.do)
 
  
 ## Universidad Autónoma de Santo Domingo
