@@ -1,0 +1,110 @@
+Presentación
+Formación
+Preguntas Frecuentes
+Otras ediciones
+IA4LEGOS-2024
+Presentación
+No son pocas las informaciones que recibimos cada día sobre el impacto de la inteligencia artificial en nuestras vidas y la incertidumbre, poco alentadora, sobre el futuro profesional de nuestros jóvenes, que serán sustituidos por la inteligencia artificial.
+Ya Darwin afirmaba que “No son las especies más fuertes las que sobreviven, sino las más adaptables”.
+Para la elaboración de este curso compartimos las opiniones de Bernard Marr y del rector del MIT Rafael Reif. Según el primero, son críticas para el mercado laboral del 2030 las habilidades relacionadas con el aprendizaje continuo y las competencias en tecnologías digitales para la automatización de tareas, la analítica y capacidad crítica, y la extracción de información de los datos (ver artículo publicado en
+Forbes
+)
+. Según el segundo, “La computación ya ha dejado de ser solo del dominio de los expertos”, pues el mundo necesita “bilingües” tecnológicos, expertos en sus ámbitos de conocimiento y que a la par sepan usar la inteligencia artificial para abordar retos en dichos ámbitos (ver artículo publicado en
+DELL
+).
+Pensamos que, independientemente de su formación académica, cualquier estudiante y profesional precisa desarrollar habilidades analíticas y de automatización, para saber cómo acceder y tratar la información, transformándola en una herramienta útil y eficaz para la toma de decisiones. Nos hemos comprometido en crear un entorno formativo público sensibilizado, adaptado y que reaccione a las necesidades de nuestros estudiantes y profesionales del futuro para facilitarles el desarrollo de sus competencias en inteligencia artificial, en el ámbito de la automatización y la analítica de datos.
+El proyecto formativo
+“Inteligencia Artificial para Legos” (IA4LEGOS)
+es un programa formativo completo sobre Inteligencia Artificial y Ciencia de Datos. Está enfocado como un proyecto de formación transversal, dirigido a cualquier estudiante o persona interesada, en cualquier ámbito académico o profesional, sin requisitos de conocimientos previos, y con el objetivo de desarrollar su capacitación tecnológica y analítica en el uso ético de la inteligencia artificial para la extracción de información y la automatización de procesos.
+Director del Proyecto IA4LEGOS de la UMH:  Dr. Fernando Borrás Rocher
+El Proyecto
+Nos gustaría que leyeras el artículo
+How To Prepare Students For The Jobs Of 2030
+publicado en Forbes en 2021. Traduciendo literalmente una de sus afirmaciones:
+A
+medida que aumenta el número de empleos profesionales automatizados por la IA,
+aumenta la incertidumbre de los estudiantes universitarios actuales sobre las perspectivas de trabajo en 2030
+. Los
+educadores y líderes de la educación superior están empezando a pensar
+en cómo las futuras tecnologías de IA afectarán a las perspectivas profesionales de los estudiantes y
+qué cambios deben adoptar las instituciones para preparar a los estudiantes para los empleos del mañana
+.
+Zheng Fan, Director Ejecutivo de la Escuela de Negocios Herbert de la Universidad de Miami
+La inteligencia artificial (IA) ya no es una cosa de ciencia ficción, existe en el mundo que nos rodea, automatizando tareas sencillas y mejorando drásticamente nuestras vidas. Pero a medida que la IA y la automatización adquieren mayor capacidad, ¿cómo afectará a nuestro trabajo?
+Los cambios sociales impulsados por la tecnología, como los que estamos experimentando con la IA y la automatización, siempre generan preocupación y miedo, y con razón. Un estudio de
+McKinsey Global Institute
+sugiere que,
+para 2030, los agentes inteligentes y los robots podrían sustituir hasta el 30% de la mano de obra humana actual
+. McKinsey sugiere que, en términos de escala, la revolución de la automatización podría rivalizar con el abandono de la mano de obra agrícola durante el siglo XX en Estados Unidos y Europa.
+McKinsey calcula que, en función de varios escenarios de adopción, la
+automatización desplazará entre 400 y 800 millones de puestos de trabajo de aquí a 2030
+, lo que requerirá que hasta 375 millones de personas cambien totalmente de categoría laboral.
+Como se observa en este gráfico tenemos que aumentar drásticamente las competencias tecnológicas de aquí a 2030.
+Objetivos
+Conscientes de la dificultad de implementar en nuestros planes de estudio estos cambios tan rápidos que está trayendo la Inteligencia Artificial, queremos que vuestra empleabilidad mejore incorporando nuevas competencias a vuestro currículum.
+A saber:
+Aprender el lenguaje de programación Python, que es el “inglés” para comunicarse con las máquinas y que muchos estudiantes no aprenden al no tener ninguna asignatura en sus planes de estudios.
+Analizar datos en un entorno profesional. En este mundo más digital, cada vez hay más volumen de información que procesar. Conocer herramientas como la librería Pandas para extraer la información relevante y representar gráficamente las conclusiones utilizando la librería Matplotlib es una necesidad.
+Aprender los fundamentos básicos del Machine Learning, del Aprendizaje Supervisado y del Aprendizaje No Supervisado, para que puedas aplicarlo en entornos reales como resolver problemas de predicción o problemas de clasificación de poblaciones.
+Aprender los fundamentos básicos del Deep Learning que te permitan resolver problemas relacionados con el análisis de imágenes, las series temporales, el procesado del lenguaje natural y el análisis sentimental.
+Trabajaremos con Python desde el entorno colaborativo y gratuito de Google Colab. Solo necesitas una cuenta de Google.
+Estas son las
+tecnologías
+que aprenderás tras completar el proyecto IA4LEGOS:
+Friends IA4LEGOS
+Instituto Técnico Superior Comunitario
+Web:
+https://www.itsc.edu.do/
+Contacto: Nicanor Peguero (
+*protected email*
+)
+Universidad Autónoma de Santo Domingo
+Web:
+https://uasd.edu.do/
+Contacto: Omar Segura (
+*protected email*
+)
+Universidad Nacional del Centro de la Provincia de Buenos Aires
+Web:
+https://www.unicen.edu.ar/
+Contacto: Alejandro Bricker (
+*protected email*
+)
+Universidad Nacional Toribio Rodriguez de Mendoza de Amazonas
+Web:
+https://www.untrm.edu.pe/
+Contacto: Jorge Luis Maicelo Quintana (
+*protected email*
+)
+Corporación Minuto de Dios – UNIMINUTO Bogotá
+Web:
+https://www.uniminuto.edu/
+Contacto: Jefferson Enrique Arias Gomez (
+*protected email*
+)
+Universidad ISA
+Web:
+https://isa.edu.do/
+Contacto: Pavel Corniel (
+*protected email*
+)
+Pontificia Universidad Católica del Ecuador
+Web:
+https://www.puce.edu.ec/
+Contacto: Ittalia Estefania Vattuone Granda (
+*protected email*
+)
+Universidad Católica del Cibao
+Web:
+https://www.ucateci.edu.do/
+Contacto: Jesús Lebron (
+*protected email*
+)
+Aviso legal
+Accesibilidad
+Protección de datos
+Cookies
+Universidad Miguel Hernández de Elche 2023
+Síguenos en LinkedIn
+Seguir
+Español
